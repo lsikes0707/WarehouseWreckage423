@@ -1,0 +1,1463 @@
+﻿Log file open, 01/15/25 16:08:10
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: WarehouseWreckage423
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 71 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.372565
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -8:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.23-CL-9631420
+LogInit: Engine Version: 4.23.1-9631420+++UE4+Release-4.23
+LogInit: Compatible Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Net CL: 8386587
+LogInit: OS: Windows 10 (Release 2009) (), CPU: AMD Ryzen 9 7900X 12-Core Processor            , GPU: AMD Radeon RX 7800 XT
+LogInit: Compiled (64-bit): Oct 18 2019 02:07:44
+LogInit: Compiled with Visual C++: 19.16.27030.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.23
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.23/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 34
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 31
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 27
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2025.01.16-00.08.11:187][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2025.01.16-00.08.11:187][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2025.01.16-00.08.11:187][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/LaiLaisGaming/Documents/Unreal Projects/WarehouseWreckage423/Saved/Config/Windows/Engine.ini]
+[2025.01.16-00.08.11:187][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2025.01.16-00.08.11:187][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+[2025.01.16-00.08.11:187][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/LaiLaisGaming/Documents/Unreal Projects/WarehouseWreckage423/Saved/Config/Windows/Engine.ini]
+[2025.01.16-00.08.11:187][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/LaiLaisGaming/Documents/Unreal Projects/WarehouseWreckage423/Saved/Config/Windows/Engine.ini]
+[2025.01.16-00.08.11:187][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2025.01.16-00.08.11:187][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2025.01.16-00.08.11:187][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2025.01.16-00.08.11:187][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2025.01.16-00.08.11:188][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2025.01.16-00.08.11:188][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2025.01.16-00.08.11:188][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2025.01.16-00.08.11:188][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2025.01.16-00.08.11:188][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2025.01.16-00.08.11:188][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2025.01.16-00.08.11:188][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2025.01.16-00.08.11:188][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2025.01.16-00.08.11:188][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2025.01.16-00.08.11:188][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/LaiLaisGaming/Documents/Unreal Projects/WarehouseWreckage423/Saved/Config/Windows/Engine.ini]
+[2025.01.16-00.08.11:188][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2025.01.16-00.08.11:188][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2025.01.16-00.08.11:188][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2025.01.16-00.08.11:188][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2025.01.16-00.08.11:188][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2025.01.16-00.08.11:188][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2025.01.16-00.08.11:188][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2025.01.16-00.08.11:188][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2025.01.16-00.08.11:188][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2025.01.16-00.08.11:188][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2025.01.16-00.08.11:188][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2025.01.16-00.08.11:188][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2025.01.16-00.08.11:188][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2025.01.16-00.08.11:188][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/LaiLaisGaming/Documents/Unreal Projects/WarehouseWreckage423/Saved/Config/Windows/Engine.ini]
+[2025.01.16-00.08.11:188][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/LaiLaisGaming/Documents/Unreal Projects/WarehouseWreckage423/Saved/Config/Windows/Engine.ini]
+[2025.01.16-00.08.11:192][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/LaiLaisGaming/Documents/Unreal Projects/WarehouseWreckage423/Saved/Config/Windows/Scalability.ini]
+[2025.01.16-00.08.11:192][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2025.01.16-00.08.11:192][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2025.01.16-00.08.11:192][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/LaiLaisGaming/Documents/Unreal Projects/WarehouseWreckage423/Saved/Config/Windows/Scalability.ini]
+[2025.01.16-00.08.11:192][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2025.01.16-00.08.11:192][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/LaiLaisGaming/Documents/Unreal Projects/WarehouseWreckage423/Saved/Config/Windows/Scalability.ini]
+[2025.01.16-00.08.11:192][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2025.01.16-00.08.11:192][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2025.01.16-00.08.11:192][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2025.01.16-00.08.11:192][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2025.01.16-00.08.11:192][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2025.01.16-00.08.11:192][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2025.01.16-00.08.11:192][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2025.01.16-00.08.11:192][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2025.01.16-00.08.11:192][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2025.01.16-00.08.11:192][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2025.01.16-00.08.11:192][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2025.01.16-00.08.11:192][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2025.01.16-00.08.11:192][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2025.01.16-00.08.11:192][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2025.01.16-00.08.11:192][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2025.01.16-00.08.11:192][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2025.01.16-00.08.11:192][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2025.01.16-00.08.11:192][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2025.01.16-00.08.11:192][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/LaiLaisGaming/Documents/Unreal Projects/WarehouseWreckage423/Saved/Config/Windows/Scalability.ini]
+[2025.01.16-00.08.11:192][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2025.01.16-00.08.11:192][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2025.01.16-00.08.11:192][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2025.01.16-00.08.11:192][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2025.01.16-00.08.11:192][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2025.01.16-00.08.11:192][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2025.01.16-00.08.11:192][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2025.01.16-00.08.11:192][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2025.01.16-00.08.11:192][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2025.01.16-00.08.11:192][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2025.01.16-00.08.11:192][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2025.01.16-00.08.11:192][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2025.01.16-00.08.11:192][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2025.01.16-00.08.11:192][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2025.01.16-00.08.11:192][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2025.01.16-00.08.11:192][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2025.01.16-00.08.11:192][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2025.01.16-00.08.11:192][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2025.01.16-00.08.11:192][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2025.01.16-00.08.11:192][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2025.01.16-00.08.11:192][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2025.01.16-00.08.11:192][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2025.01.16-00.08.11:192][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2025.01.16-00.08.11:192][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2025.01.16-00.08.11:192][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2025.01.16-00.08.11:192][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2025.01.16-00.08.11:192][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2025.01.16-00.08.11:192][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2025.01.16-00.08.11:192][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2025.01.16-00.08.11:192][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2025.01.16-00.08.11:192][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/LaiLaisGaming/Documents/Unreal Projects/WarehouseWreckage423/Saved/Config/Windows/Scalability.ini]
+[2025.01.16-00.08.11:192][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2025.01.16-00.08.11:192][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2025.01.16-00.08.11:192][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2025.01.16-00.08.11:192][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2025.01.16-00.08.11:192][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2025.01.16-00.08.11:192][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2025.01.16-00.08.11:192][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2025.01.16-00.08.11:192][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2025.01.16-00.08.11:192][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/LaiLaisGaming/Documents/Unreal Projects/WarehouseWreckage423/Saved/Config/Windows/Scalability.ini]
+[2025.01.16-00.08.11:192][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2025.01.16-00.08.11:192][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2025.01.16-00.08.11:192][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2025.01.16-00.08.11:192][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2025.01.16-00.08.11:192][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2025.01.16-00.08.11:192][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2025.01.16-00.08.11:192][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2025.01.16-00.08.11:192][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2025.01.16-00.08.11:192][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2025.01.16-00.08.11:192][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2025.01.16-00.08.11:192][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2025.01.16-00.08.11:192][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2025.01.16-00.08.11:192][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2025.01.16-00.08.11:192][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/LaiLaisGaming/Documents/Unreal Projects/WarehouseWreckage423/Saved/Config/Windows/Scalability.ini]
+[2025.01.16-00.08.11:192][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2025.01.16-00.08.11:192][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2025.01.16-00.08.11:193][  0]LogInit: Selected Device Profile: [Windows]
+[2025.01.16-00.08.11:193][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2025.01.16-00.08.11:204][  0]LogHAL: Display: Platform has ~ 64 GB [67737395200 / 68719476736 / 64], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2025.01.16-00.08.11:204][  0]LogInit: Going up to parent DeviceProfile []
+[2025.01.16-00.08.11:204][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/LaiLaisGaming/Documents/Unreal Projects/WarehouseWreckage423/Saved/Config/Windows/Scalability.ini]
+[2025.01.16-00.08.11:204][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2025.01.16-00.08.11:204][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2025.01.16-00.08.11:204][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/LaiLaisGaming/Documents/Unreal Projects/WarehouseWreckage423/Saved/Config/Windows/Scalability.ini]
+[2025.01.16-00.08.11:204][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2025.01.16-00.08.11:204][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/LaiLaisGaming/Documents/Unreal Projects/WarehouseWreckage423/Saved/Config/Windows/Scalability.ini]
+[2025.01.16-00.08.11:204][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2025.01.16-00.08.11:204][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2025.01.16-00.08.11:204][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2025.01.16-00.08.11:204][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2025.01.16-00.08.11:204][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2025.01.16-00.08.11:204][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2025.01.16-00.08.11:204][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2025.01.16-00.08.11:204][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2025.01.16-00.08.11:204][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2025.01.16-00.08.11:204][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2025.01.16-00.08.11:204][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2025.01.16-00.08.11:204][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2025.01.16-00.08.11:204][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2025.01.16-00.08.11:204][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2025.01.16-00.08.11:204][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2025.01.16-00.08.11:204][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2025.01.16-00.08.11:204][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2025.01.16-00.08.11:204][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2025.01.16-00.08.11:204][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/LaiLaisGaming/Documents/Unreal Projects/WarehouseWreckage423/Saved/Config/Windows/Scalability.ini]
+[2025.01.16-00.08.11:204][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2025.01.16-00.08.11:204][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2025.01.16-00.08.11:204][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2025.01.16-00.08.11:204][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2025.01.16-00.08.11:204][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2025.01.16-00.08.11:204][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2025.01.16-00.08.11:204][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2025.01.16-00.08.11:204][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2025.01.16-00.08.11:204][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2025.01.16-00.08.11:205][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2025.01.16-00.08.11:205][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2025.01.16-00.08.11:205][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2025.01.16-00.08.11:205][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2025.01.16-00.08.11:205][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2025.01.16-00.08.11:205][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2025.01.16-00.08.11:205][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2025.01.16-00.08.11:205][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2025.01.16-00.08.11:205][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2025.01.16-00.08.11:205][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2025.01.16-00.08.11:205][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2025.01.16-00.08.11:205][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2025.01.16-00.08.11:205][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2025.01.16-00.08.11:205][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2025.01.16-00.08.11:205][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2025.01.16-00.08.11:205][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2025.01.16-00.08.11:205][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2025.01.16-00.08.11:205][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2025.01.16-00.08.11:205][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2025.01.16-00.08.11:205][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2025.01.16-00.08.11:205][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2025.01.16-00.08.11:205][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/LaiLaisGaming/Documents/Unreal Projects/WarehouseWreckage423/Saved/Config/Windows/Scalability.ini]
+[2025.01.16-00.08.11:205][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2025.01.16-00.08.11:205][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2025.01.16-00.08.11:205][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2025.01.16-00.08.11:205][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2025.01.16-00.08.11:205][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2025.01.16-00.08.11:205][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2025.01.16-00.08.11:205][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2025.01.16-00.08.11:205][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2025.01.16-00.08.11:205][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/LaiLaisGaming/Documents/Unreal Projects/WarehouseWreckage423/Saved/Config/Windows/Scalability.ini]
+[2025.01.16-00.08.11:205][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2025.01.16-00.08.11:205][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2025.01.16-00.08.11:205][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2025.01.16-00.08.11:205][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2025.01.16-00.08.11:205][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2025.01.16-00.08.11:205][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2025.01.16-00.08.11:205][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2025.01.16-00.08.11:205][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2025.01.16-00.08.11:205][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2025.01.16-00.08.11:205][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2025.01.16-00.08.11:205][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2025.01.16-00.08.11:205][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2025.01.16-00.08.11:205][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2025.01.16-00.08.11:205][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/LaiLaisGaming/Documents/Unreal Projects/WarehouseWreckage423/Saved/Config/Windows/Scalability.ini]
+[2025.01.16-00.08.11:205][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2025.01.16-00.08.11:205][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2025.01.16-00.08.11:205][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2025.01.16-00.08.11:210][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2025.01.16-00.08.11:210][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2025.01.16-00.08.11:211][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/LaiLaisGaming/Documents/Unreal Projects/WarehouseWreckage423/Saved/Config/Windows/Engine.ini]
+[2025.01.16-00.08.11:211][  0]LogInit: Computer: LAILAISTOWER
+[2025.01.16-00.08.11:211][  0]LogInit: User: LaiLaisGaming
+[2025.01.16-00.08.11:211][  0]LogInit: CPU Page size=4096, Cores=12
+[2025.01.16-00.08.11:211][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2025.01.16-00.08.11:212][  0]LogMemory: Memory total: Physical=63.1GB (64GB approx)
+[2025.01.16-00.08.11:212][  0]LogMemory: Platform Memory Stats for Windows
+[2025.01.16-00.08.11:212][  0]LogMemory: Process Physical Memory: 105.51 MB used, 105.51 MB peak
+[2025.01.16-00.08.11:212][  0]LogMemory: Process Virtual Memory: 102.62 MB used, 102.62 MB peak
+[2025.01.16-00.08.11:212][  0]LogMemory: Physical Memory: 11964.95 MB used,  52634.46 MB free, 64599.41 MB total
+[2025.01.16-00.08.11:212][  0]LogMemory: Virtual Memory: 4747.44 MB used,  134212984.00 MB free, 134217728.00 MB total
+[2025.01.16-00.08.11:214][  0]LogWindows: WindowsPlatformFeatures enabled
+[2025.01.16-00.08.11:437][  0]LogInit: Using OS detected language (en-US).
+[2025.01.16-00.08.11:437][  0]LogInit: Using OS detected locale (en-US).
+[2025.01.16-00.08.11:439][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2025.01.16-00.08.11:661][  0]LogInit: Setting process to per monitor DPI aware
+[2025.01.16-00.08.11:716][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2025.01.16-00.08.11:716][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2025.01.16-00.08.13:141][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2025.01.16-00.08.13:141][  0]LogD3D11RHI: D3D11 adapters:
+[2025.01.16-00.08.13:199][  0]LogD3D11RHI:    0. 'AMD Radeon RX 7800 XT' (Feature Level 11_0)
+[2025.01.16-00.08.13:199][  0]LogD3D11RHI:       16172/0/32299 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x1002
+[2025.01.16-00.08.13:238][  0]LogD3D11RHI:    1. 'AMD Radeon(TM) Graphics' (Feature Level 11_0)
+[2025.01.16-00.08.13:238][  0]LogD3D11RHI:       485/0/32299 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1002
+[2025.01.16-00.08.13:240][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2025.01.16-00.08.13:240][  0]LogD3D11RHI:       0/0/32299 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2025.01.16-00.08.13:240][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2025.01.16-00.08.13:248][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2025.01.16-00.08.13:248][  0]LogD3D11RHI:     GPU DeviceId: 0x747e (for the marketing name, search the web for "GPU Device Id")
+[2025.01.16-00.08.13:248][  0]LogWindows: EnumDisplayDevices:
+[2025.01.16-00.08.13:248][  0]LogWindows:    0. 'AMD Radeon RX 7800 XT' (P:1 D:1)
+[2025.01.16-00.08.13:248][  0]LogWindows:    1. 'AMD Radeon RX 7800 XT' (P:0 D:1)
+[2025.01.16-00.08.13:248][  0]LogWindows:    2. 'AMD Radeon RX 7800 XT' (P:0 D:0)
+[2025.01.16-00.08.13:248][  0]LogWindows:    3. 'AMD Radeon RX 7800 XT' (P:0 D:0)
+[2025.01.16-00.08.13:248][  0]LogWindows:    4. 'AMD Radeon RX 7800 XT' (P:0 D:0)
+[2025.01.16-00.08.13:249][  0]LogWindows:    5. 'AMD Radeon(TM) Graphics' (P:0 D:0)
+[2025.01.16-00.08.13:249][  0]LogWindows:    6. 'AMD Radeon(TM) Graphics' (P:0 D:0)
+[2025.01.16-00.08.13:249][  0]LogWindows:    7. 'AMD Radeon(TM) Graphics' (P:0 D:0)
+[2025.01.16-00.08.13:249][  0]LogWindows:    8. 'AMD Radeon(TM) Graphics' (P:0 D:0)
+[2025.01.16-00.08.13:249][  0]LogWindows:    9. 'AMD Radeon(TM) Graphics' (P:0 D:0)
+[2025.01.16-00.08.13:249][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:5 
+[2025.01.16-00.08.13:249][  0]LogD3D11RHI:     Adapter Name: AMD Radeon RX 7800 XT
+[2025.01.16-00.08.13:249][  0]LogD3D11RHI:   Driver Version: AMD Software: Adrenalin Edition 24.8.1 (internal:32.0.11037.4004, unified:32.0.11037.4004)
+[2025.01.16-00.08.13:249][  0]LogD3D11RHI:      Driver Date: 8-23-2024
+[2025.01.16-00.08.13:249][  0]LogRHI: Texture pool is 11320 MB (70% of 16172 MB)
+[2025.01.16-00.08.13:301][  0]LogD3D11RHI: Async texture creation enabled
+[2025.01.16-00.08.13:318][  0]LogD3D11RHI: GPU Timing Frequency: 100.000000 (Debug: 2 1)
+[2025.01.16-00.08.13:319][  0]LogD3D11RHI: HDR output is supported on display 0 (AMD Device: 0x0, Display: 0x0).
+[2025.01.16-00.08.13:651][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2025.01.16-00.08.13:656][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2025.01.16-00.08.13:662][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2025.01.16-00.08.13:667][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2025.01.16-00.08.13:678][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2025.01.16-00.08.13:685][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2025.01.16-00.08.13:690][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2025.01.16-00.08.13:696][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2025.01.16-00.08.13:699][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2025.01.16-00.08.13:728][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2025.01.16-00.08.13:728][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2025.01.16-00.08.13:728][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2025.01.16-00.08.13:728][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2025.01.16-00.08.13:728][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2025.01.16-00.08.13:728][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2025.01.16-00.08.13:728][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2025.01.16-00.08.13:728][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2025.01.16-00.08.13:728][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2025.01.16-00.08.13:728][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2025.01.16-00.08.13:728][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2025.01.16-00.08.13:728][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2025.01.16-00.08.13:728][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2025.01.16-00.08.13:728][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2025.01.16-00.08.13:728][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2025.01.16-00.08.13:728][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2025.01.16-00.08.13:728][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2025.01.16-00.08.13:728][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2025.01.16-00.08.13:730][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2025.01.16-00.08.13:751][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2025.01.16-00.08.13:751][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2025.01.16-00.08.13:759][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2025.01.16-00.08.13:759][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2025.01.16-00.08.13:763][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2025.01.16-00.08.13:768][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2025.01.16-00.08.13:772][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2025.01.16-00.08.13:785][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2025.01.16-00.08.13:803][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2025.01.16-00.08.13:803][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2025.01.16-00.08.13:803][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2025.01.16-00.08.13:847][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2025.01.16-00.08.13:934][  0]LogShaderCompilers: Guid format shader working directory is -31 characters bigger than the processId version (../../../../../../Users/LaiLaisGaming/Documents/Unreal Projects/WarehouseWreckage423/Intermediate/Shaders/WorkingDirectory/22932/).
+[2025.01.16-00.08.13:934][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/LaiLaisGaming/AppData/Local/Temp/UnrealShaderWorkingDir/19C0F0D24A1B4D49D9634E921676ED89/'.
+[2025.01.16-00.08.13:936][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2025.01.16-00.08.13:936][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2025.01.16-00.08.13:936][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2025.01.16-00.08.15:701][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2025.01.16-00.08.15:752][  0]LogDerivedDataCache: Loaded boot cache 0.05s 74MB C:/Users/LaiLaisGaming/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2025.01.16-00.08.15:752][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/LaiLaisGaming/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2025.01.16-00.08.15:752][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/LaiLaisGaming/Documents/Unreal Projects/WarehouseWreckage423/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2025.01.16-00.08.15:752][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2025.01.16-00.08.15:752][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/LaiLaisGaming/Documents/Unreal Projects/WarehouseWreckage423/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2025.01.16-00.08.15:752][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2025.01.16-00.08.15:769][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2025.01.16-00.08.15:769][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2025.01.16-00.08.15:769][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2025.01.16-00.08.15:770][  0]LogDerivedDataCache: Using Local data cache path C:/Users/LaiLaisGaming/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2025.01.16-00.08.15:770][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2025.01.16-00.08.15:770][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2025.01.16-00.08.15:782][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2025.01.16-00.08.15:786][  0]LogSlate: Using FreeType 2.6.0
+[2025.01.16-00.08.15:800][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2025.01.16-00.08.15:884][  0]LogAssetRegistry: FAssetRegistry took 0.0030 seconds to start up
+[2025.01.16-00.08.16:103][  0]LogInit: Selected Device Profile: [Windows]
+[2025.01.16-00.08.16:306][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2025.01.16-00.08.16:306][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2025.01.16-00.08.16:306][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2025.01.16-00.08.16:306][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2025.01.16-00.08.16:306][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2025.01.16-00.08.16:344][  0]LogNetVersion: WarehouseWreckage423 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 699451355)
+[2025.01.16-00.08.17:125][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 1 prioritized culture(s) in 0.035642 seconds
+[2025.01.16-00.08.17:129][  0]LogUObjectArray: 43444 objects as part of root set at end of initial load.
+[2025.01.16-00.08.17:129][  0]LogUObjectAllocator: 7548648 out of 0 bytes used by permanent object pool.
+[2025.01.16-00.08.17:129][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2025.01.16-00.08.18:415][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2025.01.16-00.08.18:419][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2025.01.16-00.08.18:499][  0]SourceControl: Source control is disabled
+[2025.01.16-00.08.18:500][  0]SourceControl: Source control is disabled
+[2025.01.16-00.08.18:508][  0]SourceControl: Source control is disabled
+[2025.01.16-00.08.18:511][  0]SourceControl: Source control is disabled
+[2025.01.16-00.08.18:655][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2025.01.16-00.08.18:787][  0]LogOcInput: OculusInput pre-init called
+[2025.01.16-00.08.18:795][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2025.01.16-00.08.18:795][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2025.01.16-00.08.18:883][  0]LogEngine: Initializing Engine...
+[2025.01.16-00.08.18:885][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2025.01.16-00.08.18:887][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.001 s
+[2025.01.16-00.08.19:131][  0]LogInit: Initializing FReadOnlyCVARCache
+[2025.01.16-00.08.19:155][  0]LogAIModule: Creating AISystem for world Untitled
+[2025.01.16-00.08.19:179][  0]LogInit: XAudio2 using 'Headphones (2- WH2037A)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2025.01.16-00.08.19:508][  0]LogInit: FAudioDevice initialized.
+[2025.01.16-00.08.19:508][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2025.01.16-00.08.19:527][  0]LogDerivedDataCache: Saved boot cache 0.02s 74MB C:/Users/LaiLaisGaming/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2025.01.16-00.08.19:527][  0]LogInit: Texture streaming: Enabled
+[2025.01.16-00.08.19:545][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2025.01.16-00.08.19:545][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2025.01.16-00.08.19:545][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2025.01.16-00.08.19:579][  0]LogInit: Transaction tracking system initialized
+[2025.01.16-00.08.19:618][  0]BlueprintLog: New page: Editor Load
+[2025.01.16-00.08.19:714][  0]LocalizationService: Localization service is disabled
+[2025.01.16-00.08.20:115][  0]LogFileCache: Scanning file cache for directory 'C:/Users/LaiLaisGaming/Documents/Unreal Projects/WarehouseWreckage423/Content/' took 0.01s
+[2025.01.16-00.08.20:115][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2025.01.16-00.08.20:115][  0]LogCook: Display: Mobile HDR setting 1
+[2025.01.16-00.08.20:365][  0]SourceControl: Source control is disabled
+[2025.01.16-00.08.20:365][  0]Cmd: MAP LOAD FILE="../../../../../../Users/LaiLaisGaming/Documents/Unreal Projects/WarehouseWreckage423/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2025.01.16-00.08.20:371][  0]LightingResults: New page: Lighting Build
+[2025.01.16-00.08.20:375][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2025.01.16-00.08.20:376][  0]MapCheck: New page: Map Check
+[2025.01.16-00.08.20:376][  0]LightingResults: New page: Lighting Build
+[2025.01.16-00.08.20:419][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2025.01.16-00.08.20:616][  0]LogStaticMesh: Building static mesh Floor_400x400...
+[2025.01.16-00.08.20:618][  0]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400
+[2025.01.16-00.08.20:684][  0]LogAIModule: Creating AISystem for world Minimal_Default
+[2025.01.16-00.08.20:705][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.01.16-00.08.20:745][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2025.01.16-00.08.20:745][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.01.16-00.08.20:746][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.205ms to complete.
+[2025.01.16-00.08.20:746][  0]LogFileHelpers: Loading map 'Minimal_Default' took 0.381
+[2025.01.16-00.08.20:871][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.16-00.08.20:875][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.16-00.08.20:878][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.16-00.08.20:880][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.16-00.08.20:892][  0]LogCollectionManager: Loaded 0 collections in 0.000923 seconds
+[2025.01.16-00.08.20:905][  0]LogFileCache: Scanning file cache for directory 'C:/Users/LaiLaisGaming/Documents/Unreal Projects/WarehouseWreckage423/Saved/Collections/' took 0.00s
+[2025.01.16-00.08.20:905][  0]LogFileCache: Scanning file cache for directory 'C:/Users/LaiLaisGaming/Documents/Unreal Projects/WarehouseWreckage423/Content/Developers/LaiLaisGaming/Collections/' took 0.00s
+[2025.01.16-00.08.20:905][  0]LogFileCache: Scanning file cache for directory 'C:/Users/LaiLaisGaming/Documents/Unreal Projects/WarehouseWreckage423/Content/Collections/' took 0.00s
+[2025.01.16-00.08.20:905][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2025.01.16-00.08.20:911][  0]LogContentBrowser: Native class hierarchy populated in 0.0055 seconds. Added 2863 classes and 680 folders.
+[2025.01.16-00.08.20:917][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0001 seconds. Added 0 classes and 0 folders.
+[2025.01.16-00.08.21:132][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2025.01.16-00.08.21:140][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0001 seconds. Added 1 classes and 2 folders.
+[2025.01.16-00.08.21:176][  0]LogSlate: Took 0.004725 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2025.01.16-00.08.21:181][  0]LogSlate: Took 0.004853 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2025.01.16-00.08.21:189][  0]LogSlate: Took 0.004661 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2025.01.16-00.08.21:271][  0]LogRenderer: Reallocating scene render targets to support 1784x1060 Format 10 NumSamples 1 (Frame:1).
+[2025.01.16-00.08.21:341][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2025.01.16-00.08.21:341][  0]LogLoad: (Engine Initialization) Total time: 13.53 seconds
+[2025.01.16-00.08.21:341][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2025.01.16-00.08.21:400][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2025.01.16-00.08.21:717][  7]LogAssetRegistry: Asset discovery search completed in 5.8333 seconds
+[2025.01.16-00.08.21:719][  7]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000003 seconds (found 0 objects)
+[2025.01.16-00.08.21:719][  7]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000030 seconds (updated 0 objects)
+[2025.01.16-00.09.21:342][161]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={D0D53E13-4589-112A-AABF-E9A359EE6C4B}
+[2025.01.16-00.13.06:643][240]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2025.01.16-00.13.07:614][356]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2025.01.16-00.13.07:630][356]LogSlate: Took 0.004666 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2025.01.16-00.13.10:256][667]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2025.01.16-00.13.10:258][667]Cmd: MAP LOAD FILE="../../../../../../Users/LaiLaisGaming/Documents/Unreal Projects/WarehouseWreckage423/Content/MyContent/Maps/Main.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2025.01.16-00.13.10:260][667]LogSlate: Took 0.000082 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2025.01.16-00.13.10:266][667]LightingResults: New page: Lighting Build
+[2025.01.16-00.13.10:266][667]LoadErrors: New page: Loading map: Main.umap
+[2025.01.16-00.13.10:267][667]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2025.01.16-00.13.10:267][667]MapCheck: New page: Map Check
+[2025.01.16-00.13.10:267][667]LightingResults: New page: Lighting Build
+[2025.01.16-00.13.10:302][667]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2025.01.16-00.13.10:364][667]LogAIModule: Creating AISystem for world Main
+[2025.01.16-00.13.10:373][667]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.01.16-00.13.10:410][667]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2025.01.16-00.13.10:422][667]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.01.16-00.13.10:422][667]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.082ms to complete.
+[2025.01.16-00.13.10:422][667]LogFileHelpers: Loading map 'Main' took 0.166
+[2025.01.16-00.13.10:423][667]LogSlate: Window 'Open Level' being destroyed
+[2025.01.16-00.13.14:009][ 91]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2025.01.16-00.47.57:406][ 76]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2025.01.16-00.47.57:464][ 83]LogTemp: Repeating last play command: Selected Viewport
+[2025.01.16-00.47.57:468][ 83]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MyContent/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/MyContent/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/MyContent/Maps/Main.Main_C' with ClassGeneratedBy '/Game/MyContent/Maps/Main.Main:PersistentLevel.Main'
+[2025.01.16-00.47.57:469][ 83]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.01.16-00.47.57:469][ 83]PIE: New page: PIE session: Main (Jan 15, 2025, 8:47:57 AM)
+[2025.01.16-00.47.57:470][ 83]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2025.01.16-00.47.57:471][ 83]LogPlayLevel: Creating play world package: /Game/MyContent/Maps/UEDPIE_0_Main
+[2025.01.16-00.47.57:475][ 83]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004077s)
+[2025.01.16-00.47.57:476][ 83]LogAIModule: Creating AISystem for world Main
+[2025.01.16-00.47.57:476][ 83]LogPlayLevel: PIE: World Init took: (0.000617s)
+[2025.01.16-00.47.57:476][ 83]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyContent/Maps/Main.Main to /Game/MyContent/Maps/UEDPIE_0_Main.Main (0.004831s)
+[2025.01.16-00.47.57:511][ 83]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2025.01.16-00.47.57:526][ 83]LogInit: XAudio2 using 'Headphones (2- WH2037A)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2025.01.16-00.47.57:535][ 83]LogInit: FAudioDevice initialized.
+[2025.01.16-00.47.57:538][ 83]LogLoad: Game class is 'GameModeBase'
+[2025.01.16-00.47.57:540][ 83]LogWorld: Bringing World /Game/MyContent/Maps/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2025.01.15-16.47.57
+[2025.01.16-00.47.57:541][ 83]LogWorld: Bringing up level for play took: 0.000970
+[2025.01.16-00.47.57:541][ 83]LogOnline: OSS: Creating online subsystem instance for: :Context_1
+[2025.01.16-00.47.57:547][ 83]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0002 seconds. Added 20 classes and 0 folders.
+[2025.01.16-00.47.57:549][ 83]PIE: Play in editor start time for /Game/MyContent/Maps/UEDPIE_0_Main -0.678
+[2025.01.16-00.47.57:549][ 83]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MyContent/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/MyContent/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/MyContent/Maps/Main.Main_C' with ClassGeneratedBy '/Game/MyContent/Maps/Main.Main:PersistentLevel.Main'
+[2025.01.16-00.48.12:434][868]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MyContent/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/MyContent/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/MyContent/Maps/Main.Main_C' with ClassGeneratedBy '/Game/MyContent/Maps/Main.Main:PersistentLevel.Main'
+[2025.01.16-00.48.12:437][868]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.16-00.48.12:437][868]LogWorld: BeginTearingDown for /Game/MyContent/Maps/UEDPIE_0_Main
+[2025.01.16-00.48.12:438][868]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2025.01.16-00.48.12:442][868]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.01.16-00.48.12:442][868]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MyContent/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/MyContent/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/MyContent/Maps/Main.Main_C' with ClassGeneratedBy '/Game/MyContent/Maps/Main.Main:PersistentLevel.Main'
+[2025.01.16-00.48.12:478][868]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.16-00.48.12:480][868]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2025.01.16-00.48.12:538][874]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2025.01.16-00.48.15:856][272]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2025.01.16-00.48.24:719][333]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2025.01.16-00.48.30:138][982]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2025.01.16-00.48.46:630][953]LogEditorViewport: Clicking on Actor (LMB): SkyLight (SkyLight)
+[2025.01.16-00.48.50:181][377]LogEditorViewport: Clicking on Actor (LMB): AtmosphericFog (Atmospheric Fog)
+[2025.01.16-00.48.52:884][698]LogEditorViewport: Clicking on Actor (LMB): SphereReflectionCapture (SphereReflectionCapture)
+[2025.01.16-00.48.55:134][966]LogEditorViewport: Clicking on Actor (LMB): SkyLight (SkyLight)
+[2025.01.16-00.49.21:818][162]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2025.01.16-00.49.24:562][268]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2025.01.16-00.49.30:785][  9]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2025.01.16-00.49.39:197][ 17]LogSlate: Window 'Add Content to the Project' being destroyed
+[2025.01.16-00.49.43:392][516]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2025.01.16-00.49.43:397][516]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2025.01.16-00.49.43:437][516]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2025.01.16-00.49.43:500][516]LogSavePackage: Moving '../../../../../../Users/LaiLaisGaming/Documents/Unreal Projects/WarehouseWreckage423/Saved/MainFCACBC834B2D4432DA8037B015E05CC9.tmp' to '../../../../../../Users/LaiLaisGaming/Documents/Unreal Projects/WarehouseWreckage423/Content/MyContent/Maps/Main.umap'
+[2025.01.16-00.49.43:510][516]LogFileHelpers: Saving map 'Main' took 0.109
+[2025.01.16-00.49.45:400][742]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2025.01.16-00.56.43:251][619]LogDirectoryWatcher: A directory notification failed for 'C:/Users/LaiLaisGaming/Documents/Unreal Projects/WarehouseWreckage423/Content/Collections/' because it could not be accessed. Aborting watch request...
+[2025.01.16-00.56.43:251][619]LogDirectoryWatcher: A directory notification failed for 'C:/Users/LaiLaisGaming/Documents/Unreal Projects/WarehouseWreckage423/Saved/Collections/' because it could not be accessed. Aborting watch request...
+[2025.01.16-00.56.43:251][619]LogDirectoryWatcher: A directory notification failed for 'C:/Users/LaiLaisGaming/Documents/Unreal Projects/WarehouseWreckage423/Content/Developers/LaiLaisGaming/Collections/' because it could not be accessed. Aborting watch request...
+[2025.01.16-01.01.18:645][908]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2025.01.16-01.01.29:747][230]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2025.01.16-01.01.37:400][123]Cmd: TRANSACTION UNDO
+[2025.01.16-01.01.37:400][123]LogEditorTransaction: Undo Create Actors
+[2025.01.16-01.01.37:400][123]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/MyContent/Maps/Main.Main:PersistentLevel.ModelComponent_511' invalid (792 verts, 0 indices).
+[2025.01.16-01.01.37:400][123]LogPhysics: Warning: Attempt to build physics data for /Game/MyContent/Maps/Main.Main:PersistentLevel.ModelComponent_511.BodySetup_0 when we are unable to.
+[2025.01.16-01.01.42:758][764]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2025.01.16-01.01.45:287][ 61]Cmd: TRANSACTION UNDO
+[2025.01.16-01.01.45:287][ 61]LogEditorTransaction: Undo Create Actors
+[2025.01.16-01.01.45:288][ 61]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/MyContent/Maps/Main.Main:PersistentLevel.ModelComponent_511' invalid (792 verts, 0 indices).
+[2025.01.16-01.01.45:288][ 61]LogPhysics: Warning: Attempt to build physics data for /Game/MyContent/Maps/Main.Main:PersistentLevel.ModelComponent_511.BodySetup_0 when we are unable to.
+[2025.01.16-01.01.46:005][146]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2025.01.16-01.01.56:260][372]Cmd: TRANSACTION UNDO
+[2025.01.16-01.01.56:260][372]LogEditorTransaction: Undo Create Actors
+[2025.01.16-01.01.56:260][372]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/MyContent/Maps/Main.Main:PersistentLevel.ModelComponent_511' invalid (792 verts, 0 indices).
+[2025.01.16-01.01.56:260][372]LogPhysics: Warning: Attempt to build physics data for /Game/MyContent/Maps/Main.Main:PersistentLevel.ModelComponent_511.BodySetup_0 when we are unable to.
+[2025.01.16-01.01.58:529][643]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2025.01.16-01.02.18:772][ 71]Cmd: TRANSACTION UNDO
+[2025.01.16-01.02.18:772][ 71]LogEditorTransaction: Undo Create Actors
+[2025.01.16-01.02.18:773][ 71]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/MyContent/Maps/Main.Main:PersistentLevel.ModelComponent_511' invalid (792 verts, 0 indices).
+[2025.01.16-01.02.18:773][ 71]LogPhysics: Warning: Attempt to build physics data for /Game/MyContent/Maps/Main.Main:PersistentLevel.ModelComponent_511.BodySetup_0 when we are unable to.
+[2025.01.16-01.02.50:196][840]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2025.01.16-01.02.52:247][ 84]Cmd: TRANSACTION UNDO
+[2025.01.16-01.02.52:247][ 84]LogEditorTransaction: Undo Create Actors
+[2025.01.16-01.02.52:247][ 84]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/MyContent/Maps/Main.Main:PersistentLevel.ModelComponent_511' invalid (792 verts, 0 indices).
+[2025.01.16-01.02.52:247][ 84]LogPhysics: Warning: Attempt to build physics data for /Game/MyContent/Maps/Main.Main:PersistentLevel.ModelComponent_511.BodySetup_0 when we are unable to.
+[2025.01.16-01.03.20:084][423]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2025.01.16-01.03.22:400][692]Cmd: TRANSACTION UNDO
+[2025.01.16-01.03.22:400][692]LogEditorTransaction: Undo Create Actors
+[2025.01.16-01.03.22:401][692]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/MyContent/Maps/Main.Main:PersistentLevel.ModelComponent_511' invalid (792 verts, 0 indices).
+[2025.01.16-01.03.22:401][692]LogPhysics: Warning: Attempt to build physics data for /Game/MyContent/Maps/Main.Main:PersistentLevel.ModelComponent_511.BodySetup_0 when we are unable to.
+[2025.01.16-01.03.28:327][401]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2025.01.16-01.03.44:683][356]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2025.01.16-01.03.47:633][708]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2025.01.16-01.03.48:707][836]Cmd: TRANSACTION UNDO
+[2025.01.16-01.03.48:707][836]LogEditorTransaction: Undo Brush Add
+[2025.01.16-01.03.48:709][836]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/MyContent/Maps/Main.Main:PersistentLevel.ModelComponent_509' invalid (792 verts, 0 indices).
+[2025.01.16-01.03.48:709][836]LogPhysics: Warning: Attempt to build physics data for /Game/MyContent/Maps/Main.Main:PersistentLevel.ModelComponent_509.BodySetup_0 when we are unable to.
+[2025.01.16-01.03.48:709][836]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/MyContent/Maps/Main.Main:PersistentLevel.ModelComponent_510' invalid (792 verts, 0 indices).
+[2025.01.16-01.03.48:709][836]LogPhysics: Warning: Attempt to build physics data for /Game/MyContent/Maps/Main.Main:PersistentLevel.ModelComponent_510.BodySetup_0 when we are unable to.
+[2025.01.16-01.03.48:709][836]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/MyContent/Maps/Main.Main:PersistentLevel.ModelComponent_511' invalid (792 verts, 0 indices).
+[2025.01.16-01.03.48:709][836]LogPhysics: Warning: Attempt to build physics data for /Game/MyContent/Maps/Main.Main:PersistentLevel.ModelComponent_511.BodySetup_0 when we are unable to.
+[2025.01.16-01.03.48:709][836]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/MyContent/Maps/Main.Main:PersistentLevel.ModelComponent_512' invalid (792 verts, 0 indices).
+[2025.01.16-01.03.48:709][836]LogPhysics: Warning: Attempt to build physics data for /Game/MyContent/Maps/Main.Main:PersistentLevel.ModelComponent_512.BodySetup_0 when we are unable to.
+[2025.01.16-01.03.48:709][836]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/MyContent/Maps/Main.Main:PersistentLevel.ModelComponent_513' invalid (792 verts, 0 indices).
+[2025.01.16-01.03.48:709][836]LogPhysics: Warning: Attempt to build physics data for /Game/MyContent/Maps/Main.Main:PersistentLevel.ModelComponent_513.BodySetup_0 when we are unable to.
+[2025.01.16-01.03.48:709][836]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/MyContent/Maps/Main.Main:PersistentLevel.ModelComponent_514' invalid (792 verts, 0 indices).
+[2025.01.16-01.03.48:709][836]LogPhysics: Warning: Attempt to build physics data for /Game/MyContent/Maps/Main.Main:PersistentLevel.ModelComponent_514.BodySetup_0 when we are unable to.
+[2025.01.16-01.03.48:709][836]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/MyContent/Maps/Main.Main:PersistentLevel.ModelComponent_515' invalid (792 verts, 0 indices).
+[2025.01.16-01.03.48:709][836]LogPhysics: Warning: Attempt to build physics data for /Game/MyContent/Maps/Main.Main:PersistentLevel.ModelComponent_515.BodySetup_0 when we are unable to.
+[2025.01.16-01.03.48:709][836]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/MyContent/Maps/Main.Main:PersistentLevel.ModelComponent_516' invalid (792 verts, 0 indices).
+[2025.01.16-01.03.48:709][836]LogPhysics: Warning: Attempt to build physics data for /Game/MyContent/Maps/Main.Main:PersistentLevel.ModelComponent_516.BodySetup_0 when we are unable to.
+[2025.01.16-01.05.38:081][931]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2025.01.16-01.06.02:438][848]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2025.01.16-01.06.07:978][512]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2025.01.16-01.06.10:219][771]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2025.01.16-01.06.10:224][771]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2025.01.16-01.06.10:262][771]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2025.01.16-01.06.10:326][771]LogSavePackage: Moving '../../../../../../Users/LaiLaisGaming/Documents/Unreal Projects/WarehouseWreckage423/Saved/Main9A8BD7EB4B2C1557A47766A362E5CE19.tmp' to '../../../../../../Users/LaiLaisGaming/Documents/Unreal Projects/WarehouseWreckage423/Content/MyContent/Maps/Main.umap'
+[2025.01.16-01.06.10:338][771]LogFileHelpers: Saving map 'Main' took 0.109
+[2025.01.16-01.06.18:370][719]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2025.01.16-01.06.18:375][719]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2025.01.16-01.06.18:412][719]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2025.01.16-01.06.18:470][719]LogSavePackage: Moving '../../../../../../Users/LaiLaisGaming/Documents/Unreal Projects/WarehouseWreckage423/Saved/Main8E67DEFB45719146C1381F8773E09511.tmp' to '../../../../../../Users/LaiLaisGaming/Documents/Unreal Projects/WarehouseWreckage423/Content/MyContent/Maps/Main.umap'
+[2025.01.16-01.06.18:480][719]LogFileHelpers: Saving map 'Main' took 0.102
+[2025.01.16-01.07.17:283][773]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2025.01.16-01.07.19:883][ 84]LogActorFactory: Actor Factory created Plane
+[2025.01.16-01.07.23:398][505]LogActorFactory: Actor Factory created Plane
+[2025.01.16-01.07.24:858][674]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Plane)
+[2025.01.16-01.07.24:874][674]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2025.01.16-01.07.26:577][875]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Plane)
+[2025.01.16-01.07.26:599][875]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2025.01.16-01.07.27:436][974]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2025.01.16-01.08.02:785][198]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2025.01.16-01.08.02:791][198]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2025.01.16-01.08.02:830][198]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2025.01.16-01.08.02:889][198]LogSavePackage: Moving '../../../../../../Users/LaiLaisGaming/Documents/Unreal Projects/WarehouseWreckage423/Saved/Main6D8133E64C9E1CD43BD5A78530191C3B.tmp' to '../../../../../../Users/LaiLaisGaming/Documents/Unreal Projects/WarehouseWreckage423/Content/MyContent/Maps/Main.umap'
+[2025.01.16-01.08.02:900][198]LogFileHelpers: Saving map 'Main' took 0.106
+[2025.01.16-01.08.04:285][363]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2025.01.16-01.08.22:663][566]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2025.01.16-01.08.34:559][988]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2025.01.16-01.08.34:563][988]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2025.01.16-01.08.34:605][988]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2025.01.16-01.08.34:663][988]LogSavePackage: Moving '../../../../../../Users/LaiLaisGaming/Documents/Unreal Projects/WarehouseWreckage423/Saved/Main0B5771CA475E1EAE807D538CCD978498.tmp' to '../../../../../../Users/LaiLaisGaming/Documents/Unreal Projects/WarehouseWreckage423/Content/MyContent/Maps/Main.umap'
+[2025.01.16-01.08.34:673][988]LogFileHelpers: Saving map 'Main' took 0.106
+[2025.01.16-01.08.56:424][596]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2025.01.16-01.09.00:822][117]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2025.01.16-01.09.00:827][117]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2025.01.16-01.09.00:865][117]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2025.01.16-01.09.00:922][117]LogSavePackage: Moving '../../../../../../Users/LaiLaisGaming/Documents/Unreal Projects/WarehouseWreckage423/Saved/Main30FF59484B5929E644E68C8893332F18.tmp' to '../../../../../../Users/LaiLaisGaming/Documents/Unreal Projects/WarehouseWreckage423/Content/MyContent/Maps/Main.umap'
+[2025.01.16-01.09.00:933][117]LogFileHelpers: Saving map 'Main' took 0.102
+[2025.01.16-01.09.24:490][881]LogTexture: Display: Building textures: BG_D (AutoDXT, 8X8)
+[2025.01.16-01.09.24:490][881]LogTexture: Display: Building textures: BB_D (AutoDXT, 8X8)
+[2025.01.16-01.09.24:490][881]LogTexture: Display: Building textures: B_N (BC5, 8X8)
+[2025.01.16-01.09.24:490][881]LogTexture: Display: Building textures: T_MASK1 (AutoDXT, 256X256)
+[2025.01.16-01.09.24:490][881]LogTexture: Display: Building textures: T_Rack_N (BC5, 1024X1024)
+[2025.01.16-01.09.24:490][881]LogTexture: Display: Building textures: T_Rack_SRM (AutoDXT, 1024X1024)
+[2025.01.16-01.09.24:490][881]LogTexture: Display: Building textures: T_Rack_D (AutoDXT, 1024X1024)
+[2025.01.16-01.09.24:490][881]LogTexture: Display: Building textures: T_MASK2 (AutoDXT, 2048X2048)
+[2025.01.16-01.09.24:490][881]LogMaterial: Display: Missing cached shader map for material M_base, compiling. 
+[2025.01.16-01.09.24:604][881]LogShaderCompilers: Display: Worker (1/21): shaders left to compile 370
+[2025.01.16-01.09.24:604][881]LogShaderCompilers: Display: Worker (2/21): shaders left to compile 360
+[2025.01.16-01.09.24:604][881]LogShaderCompilers: Display: Worker (3/21): shaders left to compile 350
+[2025.01.16-01.09.24:604][881]LogShaderCompilers: Display: Worker (4/21): shaders left to compile 340
+[2025.01.16-01.09.24:604][881]LogShaderCompilers: Display: Worker (5/21): shaders left to compile 330
+[2025.01.16-01.09.24:604][881]LogShaderCompilers: Display: Worker (6/21): shaders left to compile 320
+[2025.01.16-01.09.24:604][881]LogShaderCompilers: Display: Worker (7/21): shaders left to compile 310
+[2025.01.16-01.09.24:604][881]LogShaderCompilers: Display: Worker (8/21): shaders left to compile 300
+[2025.01.16-01.09.24:604][881]LogShaderCompilers: Display: Worker (9/21): shaders left to compile 290
+[2025.01.16-01.09.24:604][881]LogShaderCompilers: Display: Worker (10/21): shaders left to compile 280
+[2025.01.16-01.09.24:604][881]LogShaderCompilers: Display: Worker (11/21): shaders left to compile 270
+[2025.01.16-01.09.24:604][881]LogShaderCompilers: Display: Worker (12/21): shaders left to compile 260
+[2025.01.16-01.09.24:604][881]LogShaderCompilers: Display: Worker (13/21): shaders left to compile 250
+[2025.01.16-01.09.24:604][881]LogShaderCompilers: Display: Worker (14/21): shaders left to compile 240
+[2025.01.16-01.09.24:604][881]LogShaderCompilers: Display: Worker (15/21): shaders left to compile 230
+[2025.01.16-01.09.24:604][881]LogShaderCompilers: Display: Worker (16/21): shaders left to compile 220
+[2025.01.16-01.09.24:604][881]LogShaderCompilers: Display: Worker (17/21): shaders left to compile 210
+[2025.01.16-01.09.24:604][881]LogShaderCompilers: Display: Worker (18/21): shaders left to compile 200
+[2025.01.16-01.09.24:604][881]LogShaderCompilers: Display: Worker (19/21): shaders left to compile 190
+[2025.01.16-01.09.24:604][881]LogShaderCompilers: Display: Worker (20/21): shaders left to compile 180
+[2025.01.16-01.09.24:604][881]LogMaterial: Display: Missing cached shader map for material M_base, compiling. 
+[2025.01.16-01.09.24:703][881]LogStaticMesh: Building static mesh SM_Rack01...
+[2025.01.16-01.09.24:765][881]LogStaticMesh: Built static mesh [0.06s] /Game/IndustryPropsPack6/Meshes/SM_Rack01.SM_Rack01
+[2025.01.16-01.09.24:780][881]LogActorFactory: Actor Factory created SM_Rack01
+[2025.01.16-01.09.25:831][983]LogShaderCompilers: Display: Worker (9/21): shaders left to compile 540
+[2025.01.16-01.09.25:936][992]LogShaderCompilers: Display: Worker (10/21): shaders left to compile 530
+[2025.01.16-01.09.25:989][994]LogShaderCompilers: Display: Worker (5/21): shaders left to compile 520
+[2025.01.16-01.09.25:989][994]LogShaderCompilers: Display: Worker (1/21): shaders left to compile 510
+[2025.01.16-01.09.26:029][997]LogShaderCompilers: Display: Worker (13/21): shaders left to compile 500
+[2025.01.16-01.09.26:083][999]LogShaderCompilers: Display: Worker (19/21): shaders left to compile 490
+[2025.01.16-01.09.26:083][999]LogShaderCompilers: Display: Worker (15/21): shaders left to compile 480
+[2025.01.16-01.09.26:157][  3]LogShaderCompilers: Display: Worker (20/21): shaders left to compile 470
+[2025.01.16-01.09.26:298][ 13]LogShaderCompilers: Display: Worker (11/21): shaders left to compile 460
+[2025.01.16-01.09.26:318][ 15]LogShaderCompilers: Display: Worker (2/21): shaders left to compile 450
+[2025.01.16-01.09.26:360][ 19]LogShaderCompilers: Display: Worker (6/21): shaders left to compile 440
+[2025.01.16-01.09.26:382][ 21]LogShaderCompilers: Display: Worker (14/21): shaders left to compile 430
+[2025.01.16-01.09.26:467][ 28]LogShaderCompilers: Display: Worker (3/21): shaders left to compile 420
+[2025.01.16-01.09.26:496][ 30]LogShaderCompilers: Display: Worker (7/21): shaders left to compile 410
+[2025.01.16-01.09.26:628][ 42]LogShaderCompilers: Display: Worker (12/21): shaders left to compile 400
+[2025.01.16-01.09.26:727][ 52]LogShaderCompilers: Display: Worker (9/21): shaders left to compile 390
+[2025.01.16-01.09.26:746][ 54]LogShaderCompilers: Display: Worker (18/21): shaders left to compile 380
+[2025.01.16-01.09.26:898][ 70]LogShaderCompilers: Display: Worker (4/21): shaders left to compile 370
+[2025.01.16-01.09.26:935][ 74]LogShaderCompilers: Display: Worker (8/21): shaders left to compile 360
+[2025.01.16-01.09.27:062][ 86]LogShaderCompilers: Display: Worker (13/21): shaders left to compile 350
+[2025.01.16-01.09.27:138][ 94]LogShaderCompilers: Display: Worker (16/21): shaders left to compile 340
+[2025.01.16-01.09.27:195][100]LogShaderCompilers: Display: Worker (19/21): shaders left to compile 330
+[2025.01.16-01.09.27:223][103]LogShaderCompilers: Display: Worker (11/21): shaders left to compile 320
+[2025.01.16-01.09.27:277][108]LogShaderCompilers: Display: Worker (1/21): shaders left to compile 310
+[2025.01.16-01.09.27:373][119]LogShaderCompilers: Display: Worker (2/21): shaders left to compile 300
+[2025.01.16-01.09.27:401][122]LogShaderCompilers: Display: Worker (20/21): shaders left to compile 290
+[2025.01.16-01.09.27:514][134]LogShaderCompilers: Display: Worker (17/21): shaders left to compile 280
+[2025.01.16-01.09.27:587][142]LogShaderCompilers: Display: Worker (7/21): shaders left to compile 270
+[2025.01.16-01.09.27:623][145]LogShaderCompilers: Display: Worker (3/21): shaders left to compile 260
+[2025.01.16-01.09.27:644][147]LogShaderCompilers: Display: Worker (14/21): shaders left to compile 250
+[2025.01.16-01.09.27:722][153]LogActorFactory: Actor Factory created SM_Rack01
+[2025.01.16-01.09.27:799][156]LogShaderCompilers: Display: Worker (10/21): shaders left to compile 240
+[2025.01.16-01.09.27:857][161]LogShaderCompilers: Display: Worker (15/21): shaders left to compile 230
+[2025.01.16-01.09.27:911][166]LogShaderCompilers: Display: Worker (5/21): shaders left to compile 220
+[2025.01.16-01.09.27:920][167]LogShaderCompilers: Display: Worker (4/21): shaders left to compile 210
+[2025.01.16-01.09.28:110][185]LogShaderCompilers: Display: Worker (12/21): shaders left to compile 200
+[2025.01.16-01.09.28:129][187]LogShaderCompilers: Display: Worker (6/21): shaders left to compile 190
+[2025.01.16-01.09.28:229][197]LogShaderCompilers: Display: Worker (19/21): shaders left to compile 180
+[2025.01.16-01.09.28:265][200]LogShaderCompilers: Display: Worker (20/21): shaders left to compile 170
+[2025.01.16-01.09.28:306][203]LogShaderCompilers: Display: Worker (8/21): shaders left to compile 161
+[2025.01.16-01.09.28:485][217]LogShaderCompilers: Display: Worker (9/21): shaders left to compile 152
+[2025.01.16-01.09.28:507][219]LogShaderCompilers: Display: Worker (17/21): shaders left to compile 144
+[2025.01.16-01.09.28:547][223]LogShaderCompilers: Display: Worker (18/21): shaders left to compile 136
+[2025.01.16-01.09.28:588][225]LogShaderCompilers: Display: Worker (11/21): shaders left to compile 129
+[2025.01.16-01.09.28:588][225]LogShaderCompilers: Display: Worker (13/21): shaders left to compile 122
+[2025.01.16-01.09.28:755][237]LogShaderCompilers: Display: Worker (14/21): shaders left to compile 115
+[2025.01.16-01.09.28:825][244]LogShaderCompilers: Display: Worker (1/21): shaders left to compile 109
+[2025.01.16-01.09.28:965][256]LogShaderCompilers: Display: Worker (7/21): shaders left to compile 103
+[2025.01.16-01.09.28:965][256]LogShaderCompilers: Display: Worker (15/21): shaders left to compile 97
+[2025.01.16-01.09.29:042][264]LogShaderCompilers: Display: Worker (16/21): shaders left to compile 91
+[2025.01.16-01.09.29:087][268]LogShaderCompilers: Display: Worker (20/21): shaders left to compile 86
+[2025.01.16-01.09.29:145][274]LogShaderCompilers: Display: Worker (10/21): shaders left to compile 81
+[2025.01.16-01.09.29:213][280]LogShaderCompilers: Display: Worker (18/21): shaders left to compile 76
+[2025.01.16-01.09.29:213][280]LogShaderCompilers: Display: Worker (6/21): shaders left to compile 72
+[2025.01.16-01.09.29:342][293]LogShaderCompilers: Display: Worker (3/21): shaders left to compile 68
+[2025.01.16-01.09.29:351][294]LogShaderCompilers: Display: Worker (11/21): shaders left to compile 64
+[2025.01.16-01.09.29:379][297]LogShaderCompilers: Display: Worker (2/21): shaders left to compile 60
+[2025.01.16-01.09.29:379][297]LogShaderCompilers: Display: Worker (19/21): shaders left to compile 56
+[2025.01.16-01.09.29:379][297]LogShaderCompilers: Display: Worker (13/21): shaders left to compile 52
+[2025.01.16-01.09.29:524][310]LogShaderCompilers: Display: Worker (15/21): shaders left to compile 49
+[2025.01.16-01.09.29:524][310]LogShaderCompilers: Display: Worker (14/21): shaders left to compile 46
+[2025.01.16-01.09.29:535][311]LogShaderCompilers: Display: Worker (16/21): shaders left to compile 43
+[2025.01.16-01.09.29:546][312]LogShaderCompilers: Display: Worker (18/21): shaders left to compile 40
+[2025.01.16-01.09.29:604][318]LogShaderCompilers: Display: Worker (20/21): shaders left to compile 37
+[2025.01.16-01.09.29:664][324]LogShaderCompilers: Display: Worker (13/21): shaders left to compile 35
+[2025.01.16-01.09.29:745][332]LogShaderCompilers: Display: Worker (10/21): shaders left to compile 33
+[2025.01.16-01.09.29:781][336]LogShaderCompilers: Display: Worker (19/21): shaders left to compile 31
+[2025.01.16-01.09.29:802][338]LogShaderCompilers: Display: Worker (20/21): shaders left to compile 29
+[2025.01.16-01.09.29:844][342]LogShaderCompilers: Display: Worker (6/21): shaders left to compile 27
+[2025.01.16-01.09.29:888][346]LogShaderCompilers: Display: Worker (15/21): shaders left to compile 25
+[2025.01.16-01.09.29:888][346]LogShaderCompilers: Display: Worker (13/21): shaders left to compile 23
+[2025.01.16-01.09.29:909][348]LogShaderCompilers: Display: Worker (12/21): shaders left to compile 21
+[2025.01.16-01.09.29:918][349]LogShaderCompilers: Display: Worker (14/21): shaders left to compile 19
+[2025.01.16-01.09.29:927][350]LogShaderCompilers: Display: Worker (16/21): shaders left to compile 18
+[2025.01.16-01.09.29:947][352]LogShaderCompilers: Display: Worker (1/21): shaders left to compile 17
+[2025.01.16-01.09.29:959][353]LogShaderCompilers: Display: Worker (10/21): shaders left to compile 16
+[2025.01.16-01.09.30:005][356]LogShaderCompilers: Display: Worker (8/21): shaders left to compile 15
+[2025.01.16-01.09.30:005][356]LogShaderCompilers: Display: Worker (19/21): shaders left to compile 14
+[2025.01.16-01.09.30:029][358]LogShaderCompilers: Display: Worker (20/21): shaders left to compile 13
+[2025.01.16-01.09.30:040][359]LogShaderCompilers: Display: Worker (9/21): shaders left to compile 12
+[2025.01.16-01.09.30:040][359]LogShaderCompilers: Display: Worker (17/21): shaders left to compile 11
+[2025.01.16-01.09.30:040][359]LogShaderCompilers: Display: Worker (18/21): shaders left to compile 10
+[2025.01.16-01.09.30:051][360]LogShaderCompilers: Display: Worker (6/21): shaders left to compile 9
+[2025.01.16-01.09.30:069][362]LogShaderCompilers: Display: Worker (2/21): shaders left to compile 8
+[2025.01.16-01.09.30:095][365]LogShaderCompilers: Display: Worker (7/21): shaders left to compile 7
+[2025.01.16-01.09.30:095][365]LogShaderCompilers: Display: Worker (11/21): shaders left to compile 6
+[2025.01.16-01.09.30:113][367]LogShaderCompilers: Display: Worker (5/21): shaders left to compile 5
+[2025.01.16-01.09.30:134][369]LogShaderCompilers: Display: Worker (1/21): shaders left to compile 4
+[2025.01.16-01.09.30:134][369]LogShaderCompilers: Display: Worker (3/21): shaders left to compile 3
+[2025.01.16-01.09.30:173][372]LogShaderCompilers: Display: Worker (14/21): shaders left to compile 2
+[2025.01.16-01.09.30:173][372]LogShaderCompilers: Display: Worker (19/21): shaders left to compile 1
+[2025.01.16-01.09.36:380][104]LogSlate: Took 0.008481 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2025.01.16-01.09.38:570][366]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2025.01.16-01.09.38:663][377]LogStaticMesh: Building static mesh SM_Rack02...
+[2025.01.16-01.09.38:686][377]LogStaticMesh: Built static mesh [0.02s] /Game/IndustryPropsPack6/Meshes/SM_Rack02.SM_Rack02
+[2025.01.16-01.09.38:773][386]LogActorFactory: Actor Factory created SM_Rack02
+[2025.01.16-01.09.39:585][480]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2025.01.16-01.09.39:602][480]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2025.01.16-01.09.48:189][510]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2025.01.16-01.09.53:732][174]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2025.01.16-01.09.53:886][192]LogActorFactory: Actor Factory created SM_Rack02
+[2025.01.16-01.09.56:924][556]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2025.01.16-01.09.57:078][574]LogActorFactory: Actor Factory created SM_Rack02
+[2025.01.16-01.09.57:825][663]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2025.01.16-01.09.57:841][663]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2025.01.16-01.10.00:868][ 26]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2025.01.16-01.10.11:407][287]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2025.01.16-01.10.12:976][473]LogActorFactory: Actor Factory created SM_Rack02
+[2025.01.16-01.10.13:840][576]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2025.01.16-01.10.13:855][576]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2025.01.16-01.10.24:075][801]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (SM_Rack03)
+[2025.01.16-01.10.35:438][161]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2025.01.16-01.10.49:733][869]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2025.01.16-01.10.49:890][885]LogTexture: Display: Building textures: T_Hose_SRM (AutoDXT, 256X256)
+[2025.01.16-01.10.49:890][885]LogTexture: Display: Building textures: T_Hose_D (AutoDXT, 256X256)
+[2025.01.16-01.10.49:890][885]LogTexture: Display: Building textures: T_Hose_N (BC5, 256X256)
+[2025.01.16-01.10.49:891][885]LogMaterial: Display: Missing cached shader map for material M_base, compiling. 
+[2025.01.16-01.10.49:976][885]LogShaderCompilers: Display: Worker (1/21): shaders left to compile 370
+[2025.01.16-01.10.49:976][885]LogShaderCompilers: Display: Worker (2/21): shaders left to compile 360
+[2025.01.16-01.10.49:976][885]LogShaderCompilers: Display: Worker (3/21): shaders left to compile 350
+[2025.01.16-01.10.49:976][885]LogShaderCompilers: Display: Worker (4/21): shaders left to compile 340
+[2025.01.16-01.10.49:976][885]LogShaderCompilers: Display: Worker (5/21): shaders left to compile 330
+[2025.01.16-01.10.49:976][885]LogShaderCompilers: Display: Worker (6/21): shaders left to compile 320
+[2025.01.16-01.10.49:976][885]LogShaderCompilers: Display: Worker (7/21): shaders left to compile 310
+[2025.01.16-01.10.49:976][885]LogShaderCompilers: Display: Worker (8/21): shaders left to compile 300
+[2025.01.16-01.10.49:976][885]LogShaderCompilers: Display: Worker (9/21): shaders left to compile 290
+[2025.01.16-01.10.49:976][885]LogShaderCompilers: Display: Worker (10/21): shaders left to compile 280
+[2025.01.16-01.10.49:976][885]LogShaderCompilers: Display: Worker (11/21): shaders left to compile 270
+[2025.01.16-01.10.49:976][885]LogShaderCompilers: Display: Worker (12/21): shaders left to compile 260
+[2025.01.16-01.10.49:976][885]LogShaderCompilers: Display: Worker (13/21): shaders left to compile 250
+[2025.01.16-01.10.49:976][885]LogShaderCompilers: Display: Worker (14/21): shaders left to compile 240
+[2025.01.16-01.10.49:976][885]LogShaderCompilers: Display: Worker (15/21): shaders left to compile 230
+[2025.01.16-01.10.49:976][885]LogShaderCompilers: Display: Worker (16/21): shaders left to compile 220
+[2025.01.16-01.10.49:976][885]LogShaderCompilers: Display: Worker (17/21): shaders left to compile 210
+[2025.01.16-01.10.49:976][885]LogShaderCompilers: Display: Worker (18/21): shaders left to compile 200
+[2025.01.16-01.10.49:977][885]LogShaderCompilers: Display: Worker (19/21): shaders left to compile 190
+[2025.01.16-01.10.49:977][885]LogShaderCompilers: Display: Worker (20/21): shaders left to compile 180
+[2025.01.16-01.10.49:977][885]LogStaticMesh: Building static mesh SM_Hose01...
+[2025.01.16-01.10.50:086][885]LogStaticMesh: Built static mesh [0.11s] /Game/IndustryPropsPack6/Meshes/SM_Hose01.SM_Hose01
+[2025.01.16-01.10.50:107][885]LogActorFactory: Actor Factory created SM_Hose01
+[2025.01.16-01.10.50:920][922]LogShaderCompilers: Display: Worker (9/21): shaders left to compile 170
+[2025.01.16-01.10.51:037][932]LogShaderCompilers: Display: Worker (1/21): shaders left to compile 161
+[2025.01.16-01.10.51:037][932]LogShaderCompilers: Display: Worker (10/21): shaders left to compile 152
+[2025.01.16-01.10.51:055][934]LogShaderCompilers: Display: Worker (5/21): shaders left to compile 143
+[2025.01.16-01.10.51:119][939]LogShaderCompilers: Display: Worker (15/21): shaders left to compile 135
+[2025.01.16-01.10.51:132][939]LogActorFactory: Actor Factory created SM_Hose01
+[2025.01.16-01.10.51:147][939]LogShaderCompilers: Display: Worker (19/21): shaders left to compile 128
+[2025.01.16-01.10.51:147][939]LogShaderCompilers: Display: Worker (13/21): shaders left to compile 121
+[2025.01.16-01.10.51:211][941]LogShaderCompilers: Display: Worker (20/21): shaders left to compile 114
+[2025.01.16-01.10.51:365][950]LogShaderCompilers: Display: Worker (11/21): shaders left to compile 108
+[2025.01.16-01.10.51:383][951]LogShaderCompilers: Display: Worker (2/21): shaders left to compile 102
+[2025.01.16-01.10.51:401][952]LogShaderCompilers: Display: Worker (6/21): shaders left to compile 96
+[2025.01.16-01.10.51:419][953]LogShaderCompilers: Display: Worker (14/21): shaders left to compile 91
+[2025.01.16-01.10.51:508][958]LogShaderCompilers: Display: Worker (3/21): shaders left to compile 86
+[2025.01.16-01.10.51:544][961]LogShaderCompilers: Display: Worker (7/21): shaders left to compile 81
+[2025.01.16-01.10.51:710][972]LogShaderCompilers: Display: Worker (12/21): shaders left to compile 76
+[2025.01.16-01.10.51:732][974]LogShaderCompilers: Display: Worker (9/21): shaders left to compile 72
+[2025.01.16-01.10.51:816][982]LogShaderCompilers: Display: Worker (15/21): shaders left to compile 68
+[2025.01.16-01.10.51:846][985]LogShaderCompilers: Display: Worker (6/21): shaders left to compile 64
+[2025.01.16-01.10.51:860][986]LogShaderCompilers: Display: Worker (18/21): shaders left to compile 60
+[2025.01.16-01.10.51:897][989]LogShaderCompilers: Display: Worker (19/21): shaders left to compile 56
+[2025.01.16-01.10.51:910][990]LogShaderCompilers: Display: Worker (14/21): shaders left to compile 53
+[2025.01.16-01.10.51:945][993]LogShaderCompilers: Display: Worker (13/21): shaders left to compile 50
+[2025.01.16-01.10.51:978][996]LogShaderCompilers: Display: Worker (4/21): shaders left to compile 47
+[2025.01.16-01.10.52:006][999]LogShaderCompilers: Display: Worker (8/21): shaders left to compile 44
+[2025.01.16-01.10.52:015][  0]LogShaderCompilers: Display: Worker (3/21): shaders left to compile 41
+[2025.01.16-01.10.52:025][  1]LogShaderCompilers: Display: Worker (12/21): shaders left to compile 38
+[2025.01.16-01.10.52:025][  1]LogShaderCompilers: Display: Worker (20/21): shaders left to compile 36
+[2025.01.16-01.10.52:122][  9]LogShaderCompilers: Display: Worker (7/21): shaders left to compile 34
+[2025.01.16-01.10.52:193][ 15]LogShaderCompilers: Display: Worker (19/21): shaders left to compile 32
+[2025.01.16-01.10.52:250][ 21]LogShaderCompilers: Display: Worker (14/21): shaders left to compile 30
+[2025.01.16-01.10.52:250][ 21]LogShaderCompilers: Display: Worker (20/21): shaders left to compile 28
+[2025.01.16-01.10.52:250][ 21]LogShaderCompilers: Display: Worker (16/21): shaders left to compile 26
+[2025.01.16-01.10.52:259][ 22]LogShaderCompilers: Display: Worker (13/21): shaders left to compile 24
+[2025.01.16-01.10.52:325][ 28]LogShaderCompilers: Display: Worker (12/21): shaders left to compile 22
+[2025.01.16-01.10.52:351][ 30]LogShaderCompilers: Display: Worker (7/21): shaders left to compile 20
+[2025.01.16-01.10.52:363][ 31]LogShaderCompilers: Display: Worker (4/21): shaders left to compile 18
+[2025.01.16-01.10.52:383][ 33]LogShaderCompilers: Display: Worker (9/21): shaders left to compile 17
+[2025.01.16-01.10.52:393][ 34]LogShaderCompilers: Display: Worker (8/21): shaders left to compile 16
+[2025.01.16-01.10.52:393][ 34]LogShaderCompilers: Display: Worker (19/21): shaders left to compile 15
+[2025.01.16-01.10.52:423][ 37]LogShaderCompilers: Display: Worker (5/21): shaders left to compile 14
+[2025.01.16-01.10.52:423][ 37]LogShaderCompilers: Display: Worker (3/21): shaders left to compile 13
+[2025.01.16-01.10.52:479][ 42]LogShaderCompilers: Display: Worker (11/21): shaders left to compile 12
+[2025.01.16-01.10.52:480][ 42]LogShaderCompilers: Display: Worker (14/21): shaders left to compile 11
+[2025.01.16-01.10.52:480][ 42]LogShaderCompilers: Display: Worker (20/21): shaders left to compile 10
+[2025.01.16-01.10.52:525][ 46]LogShaderCompilers: Display: Worker (2/21): shaders left to compile 9
+[2025.01.16-01.10.52:545][ 48]LogShaderCompilers: Display: Worker (17/21): shaders left to compile 8
+[2025.01.16-01.10.52:555][ 49]LogShaderCompilers: Display: Worker (9/21): shaders left to compile 7
+[2025.01.16-01.10.52:567][ 50]LogShaderCompilers: Display: Worker (6/21): shaders left to compile 6
+[2025.01.16-01.10.52:567][ 50]LogShaderCompilers: Display: Worker (18/21): shaders left to compile 5
+[2025.01.16-01.10.52:584][ 52]LogShaderCompilers: Display: Worker (5/21): shaders left to compile 4
+[2025.01.16-01.10.52:593][ 53]LogShaderCompilers: Display: Worker (4/21): shaders left to compile 3
+[2025.01.16-01.10.52:614][ 55]LogShaderCompilers: Display: Worker (16/21): shaders left to compile 2
+[2025.01.16-01.10.52:614][ 55]LogShaderCompilers: Display: Worker (15/21): shaders left to compile 1
+[2025.01.16-01.10.59:550][879]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2025.01.16-01.11.00:193][888]LogTexture: Display: Building textures: T_Barrel01_N (BC5, 2048X2048)
+[2025.01.16-01.11.00:193][888]LogTexture: Display: Building textures: T_Barrel01_D (AutoDXT, 2048X2048)
+[2025.01.16-01.11.00:193][888]LogTexture: Display: Building textures: T_Barrel01_SRM (AutoDXT, 2048X2048)
+[2025.01.16-01.11.00:193][888]LogStaticMesh: Building static mesh SM_Barrel01...
+[2025.01.16-01.11.00:302][888]LogStaticMesh: Built static mesh [0.11s] /Game/IndustryPropsPack6/Meshes/SM_Barrel01.SM_Barrel01
+[2025.01.16-01.11.00:309][888]LogMaterial: Display: Missing cached shader map for material M_base, compiling. 
+[2025.01.16-01.11.00:393][888]LogShaderCompilers: Display: Worker (1/21): shaders left to compile 370
+[2025.01.16-01.11.00:393][888]LogShaderCompilers: Display: Worker (2/21): shaders left to compile 360
+[2025.01.16-01.11.00:393][888]LogShaderCompilers: Display: Worker (3/21): shaders left to compile 350
+[2025.01.16-01.11.00:393][888]LogShaderCompilers: Display: Worker (4/21): shaders left to compile 340
+[2025.01.16-01.11.00:393][888]LogShaderCompilers: Display: Worker (5/21): shaders left to compile 330
+[2025.01.16-01.11.00:393][888]LogShaderCompilers: Display: Worker (6/21): shaders left to compile 320
+[2025.01.16-01.11.00:393][888]LogShaderCompilers: Display: Worker (7/21): shaders left to compile 310
+[2025.01.16-01.11.00:393][888]LogShaderCompilers: Display: Worker (8/21): shaders left to compile 300
+[2025.01.16-01.11.00:393][888]LogShaderCompilers: Display: Worker (9/21): shaders left to compile 290
+[2025.01.16-01.11.00:393][888]LogShaderCompilers: Display: Worker (10/21): shaders left to compile 280
+[2025.01.16-01.11.00:393][888]LogShaderCompilers: Display: Worker (11/21): shaders left to compile 270
+[2025.01.16-01.11.00:393][888]LogShaderCompilers: Display: Worker (12/21): shaders left to compile 260
+[2025.01.16-01.11.00:393][888]LogShaderCompilers: Display: Worker (13/21): shaders left to compile 250
+[2025.01.16-01.11.00:393][888]LogShaderCompilers: Display: Worker (14/21): shaders left to compile 240
+[2025.01.16-01.11.00:393][888]LogShaderCompilers: Display: Worker (15/21): shaders left to compile 230
+[2025.01.16-01.11.00:393][888]LogShaderCompilers: Display: Worker (16/21): shaders left to compile 220
+[2025.01.16-01.11.00:393][888]LogShaderCompilers: Display: Worker (17/21): shaders left to compile 210
+[2025.01.16-01.11.00:393][888]LogShaderCompilers: Display: Worker (18/21): shaders left to compile 200
+[2025.01.16-01.11.00:393][888]LogShaderCompilers: Display: Worker (19/21): shaders left to compile 190
+[2025.01.16-01.11.00:393][888]LogShaderCompilers: Display: Worker (20/21): shaders left to compile 180
+[2025.01.16-01.11.00:397][888]LogActorFactory: Actor Factory created SM_Barrel01
+[2025.01.16-01.11.01:032][948]LogActorFactory: Actor Factory created SM_Barrel01
+[2025.01.16-01.11.01:266][965]LogShaderCompilers: Display: Worker (9/21): shaders left to compile 170
+[2025.01.16-01.11.01:355][973]LogShaderCompilers: Display: Worker (10/21): shaders left to compile 161
+[2025.01.16-01.11.01:373][975]LogShaderCompilers: Display: Worker (1/21): shaders left to compile 152
+[2025.01.16-01.11.01:394][977]LogShaderCompilers: Display: Worker (5/21): shaders left to compile 144
+[2025.01.16-01.11.01:439][980]LogShaderCompilers: Display: Worker (15/21): shaders left to compile 136
+[2025.01.16-01.11.01:481][983]LogShaderCompilers: Display: Worker (19/21): shaders left to compile 129
+[2025.01.16-01.11.01:481][983]LogShaderCompilers: Display: Worker (13/21): shaders left to compile 122
+[2025.01.16-01.11.01:555][988]LogShaderCompilers: Display: Worker (20/21): shaders left to compile 115
+[2025.01.16-01.11.01:686][996]LogShaderCompilers: Display: Worker (2/21): shaders left to compile 109
+[2025.01.16-01.11.01:707][997]LogShaderCompilers: Display: Worker (11/21): shaders left to compile 103
+[2025.01.16-01.11.01:762][  0]LogShaderCompilers: Display: Worker (6/21): shaders left to compile 97
+[2025.01.16-01.11.01:802][  2]LogShaderCompilers: Display: Worker (14/21): shaders left to compile 92
+[2025.01.16-01.11.01:853][  5]LogShaderCompilers: Display: Worker (3/21): shaders left to compile 87
+[2025.01.16-01.11.01:905][  9]LogShaderCompilers: Display: Worker (7/21): shaders left to compile 82
+[2025.01.16-01.11.02:055][ 22]LogShaderCompilers: Display: Worker (12/21): shaders left to compile 77
+[2025.01.16-01.11.02:082][ 25]LogShaderCompilers: Display: Worker (9/21): shaders left to compile 73
+[2025.01.16-01.11.02:111][ 28]LogShaderCompilers: Display: Worker (15/21): shaders left to compile 69
+[2025.01.16-01.11.02:160][ 32]LogShaderCompilers: Display: Worker (18/21): shaders left to compile 65
+[2025.01.16-01.11.02:237][ 37]LogShaderCompilers: Display: Worker (19/21): shaders left to compile 61
+[2025.01.16-01.11.02:238][ 37]LogShaderCompilers: Display: Worker (6/21): shaders left to compile 57
+[2025.01.16-01.11.02:291][ 42]LogShaderCompilers: Display: Worker (14/21): shaders left to compile 54
+[2025.01.16-01.11.02:291][ 42]LogShaderCompilers: Display: Worker (4/21): shaders left to compile 51
+[2025.01.16-01.11.02:291][ 42]LogShaderCompilers: Display: Worker (13/21): shaders left to compile 48
+[2025.01.16-01.11.02:342][ 47]LogShaderCompilers: Display: Worker (20/21): shaders left to compile 45
+[2025.01.16-01.11.02:342][ 47]LogShaderCompilers: Display: Worker (3/21): shaders left to compile 42
+[2025.01.16-01.11.02:342][ 47]LogShaderCompilers: Display: Worker (8/21): shaders left to compile 39
+[2025.01.16-01.11.02:377][ 50]LogShaderCompilers: Display: Worker (12/21): shaders left to compile 36
+[2025.01.16-01.11.02:525][ 63]LogShaderCompilers: Display: Worker (7/21): shaders left to compile 34
+[2025.01.16-01.11.02:553][ 65]LogShaderCompilers: Display: Worker (6/21): shaders left to compile 32
+[2025.01.16-01.11.02:575][ 67]LogShaderCompilers: Display: Worker (14/21): shaders left to compile 30
+[2025.01.16-01.11.02:603][ 70]LogShaderCompilers: Display: Worker (12/21): shaders left to compile 28
+[2025.01.16-01.11.02:603][ 70]LogShaderCompilers: Display: Worker (16/21): shaders left to compile 26
+[2025.01.16-01.11.02:622][ 72]LogShaderCompilers: Display: Worker (4/21): shaders left to compile 24
+[2025.01.16-01.11.02:664][ 76]LogShaderCompilers: Display: Worker (13/21): shaders left to compile 22
+[2025.01.16-01.11.02:686][ 78]LogShaderCompilers: Display: Worker (9/21): shaders left to compile 20
+[2025.01.16-01.11.02:743][ 83]LogShaderCompilers: Display: Worker (7/21): shaders left to compile 18
+[2025.01.16-01.11.02:743][ 83]LogShaderCompilers: Display: Worker (3/21): shaders left to compile 17
+[2025.01.16-01.11.02:743][ 83]LogShaderCompilers: Display: Worker (20/21): shaders left to compile 16
+[2025.01.16-01.11.02:756][ 84]LogShaderCompilers: Display: Worker (8/21): shaders left to compile 15
+[2025.01.16-01.11.02:756][ 84]LogShaderCompilers: Display: Worker (6/21): shaders left to compile 14
+[2025.01.16-01.11.02:789][ 87]LogShaderCompilers: Display: Worker (15/21): shaders left to compile 13
+[2025.01.16-01.11.02:800][ 88]LogShaderCompilers: Display: Worker (2/21): shaders left to compile 12
+[2025.01.16-01.11.02:800][ 88]LogShaderCompilers: Display: Worker (12/21): shaders left to compile 11
+[2025.01.16-01.11.02:800][ 88]LogShaderCompilers: Display: Worker (14/21): shaders left to compile 10
+[2025.01.16-01.11.02:862][ 94]LogShaderCompilers: Display: Worker (11/21): shaders left to compile 9
+[2025.01.16-01.11.02:863][ 94]LogShaderCompilers: Display: Worker (17/21): shaders left to compile 8
+[2025.01.16-01.11.02:896][ 97]LogShaderCompilers: Display: Worker (5/21): shaders left to compile 7
+[2025.01.16-01.11.02:896][ 97]LogShaderCompilers: Display: Worker (1/21): shaders left to compile 6
+[2025.01.16-01.11.02:896][ 97]LogShaderCompilers: Display: Worker (18/21): shaders left to compile 5
+[2025.01.16-01.11.02:907][ 98]LogShaderCompilers: Display: Worker (3/21): shaders left to compile 4
+[2025.01.16-01.11.02:918][ 99]LogShaderCompilers: Display: Worker (16/21): shaders left to compile 3
+[2025.01.16-01.11.02:919][ 99]LogShaderCompilers: Display: Worker (6/21): shaders left to compile 2
+[2025.01.16-01.11.02:965][103]LogShaderCompilers: Display: Worker (7/21): shaders left to compile 1
+[2025.01.16-01.11.03:765][189]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2025.01.16-01.11.03:770][189]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2025.01.16-01.11.03:810][189]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2025.01.16-01.11.03:869][189]LogSavePackage: Moving '../../../../../../Users/LaiLaisGaming/Documents/Unreal Projects/WarehouseWreckage423/Saved/MainD2A3E6CC448023F5E67C129D2BB32CDA.tmp' to '../../../../../../Users/LaiLaisGaming/Documents/Unreal Projects/WarehouseWreckage423/Content/MyContent/Maps/Main.umap'
+[2025.01.16-01.11.03:879][189]LogFileHelpers: Saving map 'Main' took 0.106
+[2025.01.16-01.11.05:030][325]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2025.01.16-01.11.13:187][292]LogTexture: Display: Building textures: TX_Fill_01_RMA (AutoDXT, 128X128)
+[2025.01.16-01.11.13:187][292]LogTexture: Display: Building textures: TX_Fill_01_NRM (BC5, 128X128)
+[2025.01.16-01.11.13:187][292]LogTexture: Display: Building textures: TX_Fill_01_ALB (AutoDXT, 128X128)
+[2025.01.16-01.11.13:187][292]LogTexture: Display: Building textures: TX_Micro_MASK (AutoDXT, 512X512)
+[2025.01.16-01.11.13:187][292]LogTexture: Display: Building textures: TX_Noise_NRM (BC5, 512X512)
+[2025.01.16-01.11.13:187][292]LogMaterial: Display: Missing cached shader map for material MM_MasterMaterial_01, compiling. 
+[2025.01.16-01.11.13:218][292]LogStaticMesh: Building static mesh SM_Ladder_01b...
+[2025.01.16-01.11.13:219][292]LogShaderCompilers: Display: Worker (1/21): shaders left to compile 109
+[2025.01.16-01.11.13:219][292]LogShaderCompilers: Display: Worker (2/21): shaders left to compile 103
+[2025.01.16-01.11.13:219][292]LogShaderCompilers: Display: Worker (3/21): shaders left to compile 97
+[2025.01.16-01.11.13:219][292]LogShaderCompilers: Display: Worker (4/21): shaders left to compile 91
+[2025.01.16-01.11.13:220][292]LogShaderCompilers: Display: Worker (5/21): shaders left to compile 85
+[2025.01.16-01.11.13:220][292]LogShaderCompilers: Display: Worker (6/21): shaders left to compile 79
+[2025.01.16-01.11.13:220][292]LogShaderCompilers: Display: Worker (7/21): shaders left to compile 73
+[2025.01.16-01.11.13:220][292]LogShaderCompilers: Display: Worker (8/21): shaders left to compile 67
+[2025.01.16-01.11.13:220][292]LogShaderCompilers: Display: Worker (9/21): shaders left to compile 61
+[2025.01.16-01.11.13:220][292]LogShaderCompilers: Display: Worker (10/21): shaders left to compile 55
+[2025.01.16-01.11.13:220][292]LogShaderCompilers: Display: Worker (11/21): shaders left to compile 49
+[2025.01.16-01.11.13:220][292]LogShaderCompilers: Display: Worker (12/21): shaders left to compile 43
+[2025.01.16-01.11.13:220][292]LogShaderCompilers: Display: Worker (13/21): shaders left to compile 37
+[2025.01.16-01.11.13:220][292]LogShaderCompilers: Display: Worker (14/21): shaders left to compile 31
+[2025.01.16-01.11.13:220][292]LogShaderCompilers: Display: Worker (15/21): shaders left to compile 25
+[2025.01.16-01.11.13:220][292]LogShaderCompilers: Display: Worker (16/21): shaders left to compile 19
+[2025.01.16-01.11.13:220][292]LogShaderCompilers: Display: Worker (17/21): shaders left to compile 13
+[2025.01.16-01.11.13:220][292]LogShaderCompilers: Display: Worker (18/21): shaders left to compile 7
+[2025.01.16-01.11.13:220][292]LogShaderCompilers: Display: Worker (19/21): shaders left to compile 1
+[2025.01.16-01.11.13:231][292]LogTexture: Display: Building textures: TX_Ladder_NRM (BC5, 2048X2048)
+[2025.01.16-01.11.13:269][292]LogTexture: Display: Building textures: TX_Ladder_ALB (AutoDXT, 2048X2048)
+[2025.01.16-01.11.13:269][292]LogTexture: Display: Building textures: TX_Ladder_RMA (AutoDXT, 2048X2048)
+[2025.01.16-01.11.13:269][292]LogStaticMesh: Built static mesh [0.05s] /Game/Construction_VOL2/Meshes/SM_Ladder_01b.SM_Ladder_01b
+[2025.01.16-01.11.13:767][292]LogActorFactory: Actor Factory created SM_Ladder_01b
+[2025.01.16-01.11.14:150][319]LogActorFactory: Actor Factory created SM_Ladder_01b
+[2025.01.16-01.11.20:724][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2025.01.16-01.11.20:728][ 94]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2025.01.16-01.11.20:767][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2025.01.16-01.11.20:826][ 94]LogSavePackage: Moving '../../../../../../Users/LaiLaisGaming/Documents/Unreal Projects/WarehouseWreckage423/Saved/Main4C70395345B9BBD75DF4EDB3C48BF8D3.tmp' to '../../../../../../Users/LaiLaisGaming/Documents/Unreal Projects/WarehouseWreckage423/Content/MyContent/Maps/Main.umap'
+[2025.01.16-01.11.20:836][ 94]LogFileHelpers: Saving map 'Main' took 0.104
+[2025.01.16-01.11.37:354][ 70]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2025.01.16-01.11.37:359][ 70]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2025.01.16-01.11.37:399][ 70]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2025.01.16-01.11.37:456][ 70]LogSavePackage: Moving '../../../../../../Users/LaiLaisGaming/Documents/Unreal Projects/WarehouseWreckage423/Saved/MainC510AAAD4B5EB7AD20EC4D95C60C3149.tmp' to '../../../../../../Users/LaiLaisGaming/Documents/Unreal Projects/WarehouseWreckage423/Content/MyContent/Maps/Main.umap'
+[2025.01.16-01.11.37:466][ 70]LogFileHelpers: Saving map 'Main' took 0.103
+[2025.01.16-01.11.38:573][202]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2025.01.16-01.11.38:688][215]LogStaticMesh: Building static mesh SM_Ladder_01a...
+[2025.01.16-01.11.38:716][215]LogStaticMesh: Built static mesh [0.03s] /Game/Construction_VOL2/Meshes/SM_Ladder_01a.SM_Ladder_01a
+[2025.01.16-01.11.38:794][223]LogActorFactory: Actor Factory created SM_Ladder_01a
+[2025.01.16-01.11.39:477][304]LogActorFactory: Actor Factory created SM_Ladder_01a
+[2025.01.16-01.11.44:515][901]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2025.01.16-01.11.44:519][901]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2025.01.16-01.11.44:558][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2025.01.16-01.11.44:619][901]LogSavePackage: Moving '../../../../../../Users/LaiLaisGaming/Documents/Unreal Projects/WarehouseWreckage423/Saved/Main87C52FAB476B88B9B9CB57A2CD9769FE.tmp' to '../../../../../../Users/LaiLaisGaming/Documents/Unreal Projects/WarehouseWreckage423/Content/MyContent/Maps/Main.umap'
+[2025.01.16-01.11.44:630][901]LogFileHelpers: Saving map 'Main' took 0.108
+[2025.01.16-01.11.48:757][395]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2025.01.16-01.11.49:268][409]LogTexture: Display: Building textures: TX_HardHat_01_Blue_NRM (BC5, 2048X2048)
+[2025.01.16-01.11.49:268][409]LogTexture: Display: Building textures: TX_HardHat_01_Blue_ALB (AutoDXT, 2048X2048)
+[2025.01.16-01.11.49:268][409]LogTexture: Display: Building textures: TX_HardHat_01_Blue_RMA (AutoDXT, 2048X2048)
+[2025.01.16-01.11.49:268][409]LogStaticMesh: Building static mesh SM_HardHat_01a...
+[2025.01.16-01.11.49:307][409]LogStaticMesh: Built static mesh [0.04s] /Game/Construction_VOL2/Meshes/SM_HardHat_01a.SM_HardHat_01a
+[2025.01.16-01.11.49:322][409]LogActorFactory: Actor Factory created SM_HardHat_01a
+[2025.01.16-01.11.50:101][502]LogActorFactory: Actor Factory created SM_HardHat_01a
+[2025.01.16-01.11.59:828][648]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2025.01.16-01.11.59:885][653]LogStaticMesh: Building static mesh SM_HardHat_01b...
+[2025.01.16-01.11.59:924][653]LogStaticMesh: Built static mesh [0.04s] /Game/Construction_VOL2/Meshes/SM_HardHat_01b.SM_HardHat_01b
+[2025.01.16-01.12.00:263][653]LogTexture: Display: Building textures: TX_HardHat_01_Yellow_NRM (BC5, 2048X2048)
+[2025.01.16-01.12.00:263][653]LogTexture: Display: Building textures: TX_HardHat_01_Yellow_RMA (AutoDXT, 2048X2048)
+[2025.01.16-01.12.00:263][653]LogTexture: Display: Building textures: TX_HardHat_01_Yellow_ALB (AutoDXT, 2048X2048)
+[2025.01.16-01.12.00:271][653]LogActorFactory: Actor Factory created SM_HardHat_01b
+[2025.01.16-01.12.00:627][695]LogActorFactory: Actor Factory created SM_HardHat_01b
+[2025.01.16-01.12.15:597][473]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2025.01.16-01.12.16:144][479]LogTexture: Display: Building textures: TX_PetrolCutter_01a_RMA (AutoDXT, 2048X2048)
+[2025.01.16-01.12.16:144][479]LogTexture: Display: Building textures: TX_PetrolCutter_01a_NRM (BC5, 2048X2048)
+[2025.01.16-01.12.16:144][479]LogTexture: Display: Building textures: TX_PetrolCutter_01a_ALB (AutoDXT, 2048X2048)
+[2025.01.16-01.12.16:144][479]LogStaticMesh: Building static mesh SM_PetrolCutter_01a...
+[2025.01.16-01.12.16:219][479]LogStaticMesh: Built static mesh [0.08s] /Game/Construction_VOL2/Meshes/SM_PetrolCutter_01a.SM_PetrolCutter_01a
+[2025.01.16-01.12.16:240][479]LogActorFactory: Actor Factory created SM_PetrolCutter_01a
+[2025.01.16-01.12.16:769][542]LogActorFactory: Actor Factory created SM_PetrolCutter_01a
+[2025.01.16-01.12.19:668][887]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2025.01.16-01.12.19:993][897]LogTexture: Display: Building textures: TX_Canister_ALB (AutoDXT, 2048X2048)
+[2025.01.16-01.12.19:993][897]LogTexture: Display: Building textures: TX_Canister_RMA (AutoDXT, 2048X2048)
+[2025.01.16-01.12.19:993][897]LogTexture: Display: Building textures: TX_Canister_NRM (BC5, 2048X2048)
+[2025.01.16-01.12.19:993][897]LogStaticMesh: Building static mesh SM_Canister...
+[2025.01.16-01.12.20:010][897]LogStaticMesh: Built static mesh [0.02s] /Game/Construction_VOL2/Meshes/SM_Canister.SM_Canister
+[2025.01.16-01.12.20:023][897]LogActorFactory: Actor Factory created SM_Canister
+[2025.01.16-01.12.20:704][976]LogActorFactory: Actor Factory created SM_Canister
+[2025.01.16-01.12.22:342][170]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2025.01.16-01.12.22:694][182]LogTexture: Display: Building textures: TX_HandForklift_01a_RMA (AutoDXT, 2048X1024)
+[2025.01.16-01.12.22:694][182]LogTexture: Display: Building textures: TX_HandForklift_01a_ALB (AutoDXT, 2048X1024)
+[2025.01.16-01.12.22:694][182]LogTexture: Display: Building textures: TX_HandForklift_01a_NRM (BC5, 2048X1024)
+[2025.01.16-01.12.22:694][182]LogStaticMesh: Building static mesh SM_HandForklift_01a...
+[2025.01.16-01.12.22:754][182]LogStaticMesh: Built static mesh [0.06s] /Game/Construction_VOL2/Meshes/SM_HandForklift_01a.SM_HandForklift_01a
+[2025.01.16-01.12.22:770][182]LogActorFactory: Actor Factory created SM_HandForklift_01a
+[2025.01.16-01.12.23:979][326]LogActorFactory: Actor Factory created SM_HandForklift_01a
+[2025.01.16-01.12.36:867][833]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Barrel01)
+[2025.01.16-01.12.45:412][849]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2025.01.16-01.12.45:417][849]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2025.01.16-01.12.45:455][849]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2025.01.16-01.12.45:514][849]LogSavePackage: Moving '../../../../../../Users/LaiLaisGaming/Documents/Unreal Projects/WarehouseWreckage423/Saved/MainB8B346144164E828BAD4959A00A7CEBE.tmp' to '../../../../../../Users/LaiLaisGaming/Documents/Unreal Projects/WarehouseWreckage423/Content/MyContent/Maps/Main.umap'
+[2025.01.16-01.12.45:524][849]LogFileHelpers: Saving map 'Main' took 0.104
+[2025.01.16-01.12.48:006][145]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Barrel01)
+[2025.01.16-01.12.48:077][152]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2025.01.16-01.12.51:763][592]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2025.01.16-01.12.54:825][956]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/IndustryPropsPack6/Meshes/SM_Barrel01.SM_Barrel01
+[2025.01.16-01.13.04:042][ 29]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2025.01.16-01.13.07:664][461]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2025.01.16-01.13.11:680][942]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2025.01.16-01.13.32:237][219]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2025.01.16-01.13.32:271][219]LogSavePackage: Moving '../../../../../../Users/LaiLaisGaming/Documents/Unreal Projects/WarehouseWreckage423/Saved/SM_Barrel01154C634B47494DD35AEB4BAA6DB9928A.tmp' to '../../../../../../Users/LaiLaisGaming/Documents/Unreal Projects/WarehouseWreckage423/Content/IndustryPropsPack6/Meshes/SM_Barrel01.uasset'
+[2025.01.16-01.13.36:395][713]LogSlate: Window 'SM_Barrel01' being destroyed
+[2025.01.16-01.13.36:402][713]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2025.01.16-01.13.52:418][615]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2025.01.16-01.13.54:227][830]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.01.16-01.14.23:838][376]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Rack01)
+[2025.01.16-01.14.42:201][556]Cmd: TRANSACTION UNDO
+[2025.01.16-01.14.42:201][556]LogEditorTransaction: Undo Move Actors
+[2025.01.16-01.14.57:183][308]LogEditorViewport: Clicking on Actor (LMB): Brush (WallsSubtract)
+[2025.01.16-01.15.02:020][867]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Rack01)
+[2025.01.16-01.15.07:148][477]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Ladder_01a)
+[2025.01.16-01.16.38:757][391]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2025.01.16-01.16.41:916][769]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Ladder_01a)
+[2025.01.16-01.17.25:775][977]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Rack01)
+[2025.01.16-01.17.29:796][456]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2025.01.16-01.17.32:064][728]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Ladder_01a)
+[2025.01.16-01.17.34:366][  1]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2025.01.16-01.17.34:439][ 10]PIE: Warning: Trying to simulate physics on ''/Game/MyContent/Maps/Main.Main:PersistentLevel.SM_Ladder_01a_24.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2025.01.16-01.17.34:439][ 10]PIE: Warning: Trying to simulate physics on ''/Game/MyContent/Maps/Main.Main:PersistentLevel.SM_Ladder_01a_24.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2025.01.16-01.17.34:439][ 10]PIE: Warning: Trying to simulate physics on ''/Game/MyContent/Maps/Main.Main:PersistentLevel.SM_Ladder_01a_24.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2025.01.16-01.17.34:439][ 10]PIE: Warning: Trying to simulate physics on ''/Game/MyContent/Maps/Main.Main:PersistentLevel.SM_Ladder_01a_24.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2025.01.16-01.17.38:051][431]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Canister)
+[2025.01.16-01.17.39:628][617]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_PetrolCutter_01a)
+[2025.01.16-01.17.40:501][719]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_HandForklift_01a)
+[2025.01.16-01.17.42:532][960]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Ladder_01b)
+[2025.01.16-01.17.44:287][168]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_HardHat_01b)
+[2025.01.16-01.17.45:294][286]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_HardHat_01a)
+[2025.01.16-01.17.46:133][384]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Hose01)
+[2025.01.16-01.17.46:946][479]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Barrel01)
+[2025.01.16-01.17.48:546][668]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2025.01.16-01.17.48:596][674]PIE: Warning: Trying to simulate physics on ''/Game/MyContent/Maps/Main.Main:PersistentLevel.SM_Ladder_01b_21.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2025.01.16-01.17.48:597][674]PIE: Warning: Trying to simulate physics on ''/Game/MyContent/Maps/Main.Main:PersistentLevel.SM_Ladder_01b_21.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2025.01.16-01.17.48:597][674]PIE: Warning: Trying to simulate physics on ''/Game/MyContent/Maps/Main.Main:PersistentLevel.SM_Ladder_01b_21.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2025.01.16-01.17.48:597][674]PIE: Warning: Trying to simulate physics on ''/Game/MyContent/Maps/Main.Main:PersistentLevel.SM_Ladder_01b_21.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2025.01.16-01.17.49:950][832]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2025.01.16-01.17.49:997][832]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2025.01.16-01.17.50:061][832]LogSavePackage: Moving '../../../../../../Users/LaiLaisGaming/Documents/Unreal Projects/WarehouseWreckage423/Saved/MainDA0FB06E4F0F3DE54B876FABE0EBD227.tmp' to '../../../../../../Users/LaiLaisGaming/Documents/Unreal Projects/WarehouseWreckage423/Content/MyContent/Maps/Main.umap'
+[2025.01.16-01.17.50:071][832]LogFileHelpers: Saving map 'Main' took 0.113
+[2025.01.16-01.17.51:253][970]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_PetrolCutter_01a)
+[2025.01.16-01.17.56:266][558]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Hose01)
+[2025.01.16-01.18.30:367][604]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Hose01)
+[2025.01.16-01.18.30:436][611]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2025.01.16-01.18.31:494][736]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2025.01.16-01.18.31:561][743]LogEditorViewport: Clicking on Actor (double click): StaticMeshActor (SM_Hose01)
+[2025.01.16-01.18.32:342][835]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Hose01)
+[2025.01.16-01.18.32:443][846]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2025.01.16-01.18.35:442][203]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2025.01.16-01.18.35:614][223]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/IndustryPropsPack6/Meshes/SM_Hose01.SM_Hose01
+[2025.01.16-01.18.51:341][ 86]LogSavePackage: Moving '../../../../../../Users/LaiLaisGaming/Documents/Unreal Projects/WarehouseWreckage423/Saved/SM_Hose018E7893404E3329EA2C9243B66FEF1B3F.tmp' to '../../../../../../Users/LaiLaisGaming/Documents/Unreal Projects/WarehouseWreckage423/Content/IndustryPropsPack6/Meshes/SM_Hose01.uasset'
+[2025.01.16-01.18.52:200][188]LogSlate: Window 'SM_Hose01' being destroyed
+[2025.01.16-01.18.52:206][188]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2025.01.16-01.18.58:967][993]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Rack01)
+[2025.01.16-01.19.01:341][274]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2025.01.16-01.19.02:164][372]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/IndustryPropsPack6/Meshes/SM_Rack02.SM_Rack02
+[2025.01.16-01.19.10:935][409]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2025.01.16-01.19.14:661][855]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2025.01.16-01.19.15:009][896]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2025.01.16-01.19.15:316][932]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2025.01.16-01.19.21:766][703]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2025.01.16-01.19.23:961][965]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2025.01.16-01.19.27:326][367]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2025.01.16-01.19.29:213][591]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2025.01.16-01.19.33:401][ 92]LogEditorTransaction: Undo Create Convex Collision
+[2025.01.16-01.19.33:818][134]LogEditorTransaction: Undo Remove Collision
+[2025.01.16-01.19.37:641][585]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2025.01.16-01.19.39:926][857]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2025.01.16-01.19.43:307][257]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2025.01.16-01.19.43:312][257]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2025.01.16-01.19.43:355][257]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2025.01.16-01.19.43:415][257]LogSavePackage: Moving '../../../../../../Users/LaiLaisGaming/Documents/Unreal Projects/WarehouseWreckage423/Saved/Main4BA570314E6B946269131D94C34B8753.tmp' to '../../../../../../Users/LaiLaisGaming/Documents/Unreal Projects/WarehouseWreckage423/Content/MyContent/Maps/Main.umap'
+[2025.01.16-01.19.43:425][257]LogFileHelpers: Saving map 'Main' took 0.110
+[2025.01.16-01.19.43:441][257]LogSavePackage: Moving '../../../../../../Users/LaiLaisGaming/Documents/Unreal Projects/WarehouseWreckage423/Saved/SM_Rack024DBD699746989E454EF8F5A4192DC3C0.tmp' to '../../../../../../Users/LaiLaisGaming/Documents/Unreal Projects/WarehouseWreckage423/Content/IndustryPropsPack6/Meshes/SM_Rack02.uasset'
+[2025.01.16-01.19.44:620][397]LogSlate: Window 'SM_Rack02' being destroyed
+[2025.01.16-01.19.44:627][397]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2025.01.16-01.19.45:604][508]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Hose01)
+[2025.01.16-01.20.00:163][240]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Barrel01)
+[2025.01.16-01.20.25:723][258]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_HardHat_01a)
+[2025.01.16-01.21.10:015][492]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_HardHat_01b)
+[2025.01.16-01.21.40:810][117]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2025.01.16-01.21.40:815][117]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2025.01.16-01.21.40:857][117]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2025.01.16-01.21.40:918][117]LogSavePackage: Moving '../../../../../../Users/LaiLaisGaming/Documents/Unreal Projects/WarehouseWreckage423/Saved/Main31B2796744B2D2A2385FBEA3A957E17A.tmp' to '../../../../../../Users/LaiLaisGaming/Documents/Unreal Projects/WarehouseWreckage423/Content/MyContent/Maps/Main.umap'
+[2025.01.16-01.21.40:929][117]LogFileHelpers: Saving map 'Main' took 0.108
+[2025.01.16-01.21.49:200][ 98]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Canister)
+[2025.01.16-01.22.16:792][327]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2025.01.16-01.22.16:796][327]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2025.01.16-01.22.16:837][327]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2025.01.16-01.22.16:897][327]LogSavePackage: Moving '../../../../../../Users/LaiLaisGaming/Documents/Unreal Projects/WarehouseWreckage423/Saved/Main8B72C7A4461D86D66A0ADA8B6753D1B4.tmp' to '../../../../../../Users/LaiLaisGaming/Documents/Unreal Projects/WarehouseWreckage423/Content/MyContent/Maps/Main.umap'
+[2025.01.16-01.22.16:908][327]LogFileHelpers: Saving map 'Main' took 0.108
+[2025.01.16-01.22.21:389][844]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_PetrolCutter_01a)
+[2025.01.16-01.22.39:607][965]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2025.01.16-01.22.39:611][965]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2025.01.16-01.22.39:648][965]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2025.01.16-01.22.39:708][965]LogSavePackage: Moving '../../../../../../Users/LaiLaisGaming/Documents/Unreal Projects/WarehouseWreckage423/Saved/MainDF20C9854EF75E8D26E042A40411C9EE.tmp' to '../../../../../../Users/LaiLaisGaming/Documents/Unreal Projects/WarehouseWreckage423/Content/MyContent/Maps/Main.umap'
+[2025.01.16-01.22.39:718][965]LogFileHelpers: Saving map 'Main' took 0.104
+[2025.01.16-01.22.44:810][560]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Ladder_01b)
+[2025.01.16-01.22.53:398][572]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_HandForklift_01a)
+[2025.01.16-01.23.28:689][709]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2025.01.16-01.23.28:694][709]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2025.01.16-01.23.28:736][709]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2025.01.16-01.23.28:797][709]LogSavePackage: Moving '../../../../../../Users/LaiLaisGaming/Documents/Unreal Projects/WarehouseWreckage423/Saved/Main7F00C5B0419EA7BB1C6392A23ADE8C53.tmp' to '../../../../../../Users/LaiLaisGaming/Documents/Unreal Projects/WarehouseWreckage423/Content/MyContent/Maps/Main.umap'
+[2025.01.16-01.23.28:808][709]LogFileHelpers: Saving map 'Main' took 0.111
+[2025.01.16-01.23.37:415][740]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Barrel01)
+[2025.01.16-01.23.41:878][265]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2025.01.16-01.23.41:883][265]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2025.01.16-01.23.41:920][265]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2025.01.16-01.23.41:982][265]LogSavePackage: Moving '../../../../../../Users/LaiLaisGaming/Documents/Unreal Projects/WarehouseWreckage423/Saved/MainA40955784B95AEAB12D9E9A3BF950229.tmp' to '../../../../../../Users/LaiLaisGaming/Documents/Unreal Projects/WarehouseWreckage423/Content/MyContent/Maps/Main.umap'
+[2025.01.16-01.23.41:992][265]LogFileHelpers: Saving map 'Main' took 0.105
+[2025.01.16-01.24.06:508][205]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Hose01)
+[2025.01.16-01.24.11:928][845]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2025.01.16-01.24.11:932][845]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2025.01.16-01.24.11:972][845]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2025.01.16-01.24.12:033][845]LogSavePackage: Moving '../../../../../../Users/LaiLaisGaming/Documents/Unreal Projects/WarehouseWreckage423/Saved/Main854E69C340635647A601338C6B23B91F.tmp' to '../../../../../../Users/LaiLaisGaming/Documents/Unreal Projects/WarehouseWreckage423/Content/MyContent/Maps/Main.umap'
+[2025.01.16-01.24.12:044][845]LogFileHelpers: Saving map 'Main' took 0.108
+[2025.01.16-01.24.17:044][444]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Rack01)
+[2025.01.16-01.24.18:630][631]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Hose2)
+[2025.01.16-01.24.19:197][696]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Hose01)
+[2025.01.16-01.24.20:155][808]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Barrel2)
+[2025.01.16-01.24.23:244][174]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_HandForklift_01a)
+[2025.01.16-01.25.07:623][418]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Ladder_01b)
+[2025.01.16-01.25.29:671][997]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2025.01.16-01.25.29:675][997]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2025.01.16-01.25.29:713][997]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2025.01.16-01.25.29:778][997]LogSavePackage: Moving '../../../../../../Users/LaiLaisGaming/Documents/Unreal Projects/WarehouseWreckage423/Saved/MainE469C7C440FF756DD37474BC91AEBFB3.tmp' to '../../../../../../Users/LaiLaisGaming/Documents/Unreal Projects/WarehouseWreckage423/Content/MyContent/Maps/Main.umap'
+[2025.01.16-01.25.29:788][997]LogFileHelpers: Saving map 'Main' took 0.109
+[2025.01.16-01.25.51:659][603]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2025.01.16-01.26.24:785][539]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2025.01.16-01.26.43:930][811]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2025.01.16-01.26.43:935][811]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2025.01.16-01.26.43:973][811]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2025.01.16-01.26.44:040][811]LogSavePackage: Moving '../../../../../../Users/LaiLaisGaming/Documents/Unreal Projects/WarehouseWreckage423/Saved/MainEC11E325486AF89AA35878B6159D387B.tmp' to '../../../../../../Users/LaiLaisGaming/Documents/Unreal Projects/WarehouseWreckage423/Content/MyContent/Maps/Main.umap'
+[2025.01.16-01.26.44:050][811]LogFileHelpers: Saving map 'Main' took 0.112
+[2025.01.16-01.27.03:173][ 63]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2025.01.16-01.27.04:102][168]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2025.01.16-01.27.13:512][295]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2025.01.16-01.27.15:932][586]MapCheck: New page: Map Check
+[2025.01.16-01.27.15:946][586]Cmd: MAP REBUILD ALLVISIBLE
+[2025.01.16-01.27.15:946][586]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2025.01.16-01.27.15:988][586]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=false
+[2025.01.16-01.27.15:995][586]PIE: Warning: Trying to simulate physics on ''/Game/MyContent/Maps/Main.Main:PersistentLevel.SM_Ladder_01b_21.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2025.01.16-01.27.15:995][586]PIE: Warning: Trying to simulate physics on ''/Game/MyContent/Maps/Main.Main:PersistentLevel.SM_Ladder_01a_24.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2025.01.16-01.27.16:033][586]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2025.01.16-01.27.16:055][586]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2025.01.16-01.27.16:060][586]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. Is special engine material.
+[2025.01.16-01.27.16:073][586]LogShaderCompilers: Display: Worker (1/21): shaders left to compile 2
+[2025.01.16-01.27.16:073][586]LogShaderCompilers: Display: Worker (2/21): shaders left to compile 1
+[2025.01.16-01.27.16:073][586]LogShaderCompilers: Display: Worker (3/21): shaders left to compile 38
+[2025.01.16-01.27.16:073][586]LogShaderCompilers: Display: Worker (4/21): shaders left to compile 37
+[2025.01.16-01.27.16:073][586]LogShaderCompilers: Display: Worker (5/21): shaders left to compile 36
+[2025.01.16-01.27.16:073][586]LogShaderCompilers: Display: Worker (6/21): shaders left to compile 35
+[2025.01.16-01.27.16:073][586]LogShaderCompilers: Display: Worker (7/21): shaders left to compile 34
+[2025.01.16-01.27.16:073][586]LogShaderCompilers: Display: Worker (8/21): shaders left to compile 33
+[2025.01.16-01.27.16:073][586]LogShaderCompilers: Display: Worker (9/21): shaders left to compile 32
+[2025.01.16-01.27.16:073][586]LogShaderCompilers: Display: Worker (10/21): shaders left to compile 31
+[2025.01.16-01.27.16:073][586]LogShaderCompilers: Display: Worker (11/21): shaders left to compile 30
+[2025.01.16-01.27.16:073][586]LogShaderCompilers: Display: Worker (12/21): shaders left to compile 29
+[2025.01.16-01.27.16:073][586]LogShaderCompilers: Display: Worker (13/21): shaders left to compile 28
+[2025.01.16-01.27.16:073][586]LogShaderCompilers: Display: Worker (14/21): shaders left to compile 27
+[2025.01.16-01.27.16:073][586]LogShaderCompilers: Display: Worker (15/21): shaders left to compile 26
+[2025.01.16-01.27.16:073][586]LogShaderCompilers: Display: Worker (16/21): shaders left to compile 25
+[2025.01.16-01.27.16:073][586]LogShaderCompilers: Display: Worker (17/21): shaders left to compile 24
+[2025.01.16-01.27.16:073][586]LogShaderCompilers: Display: Worker (18/21): shaders left to compile 23
+[2025.01.16-01.27.16:073][586]LogShaderCompilers: Display: Worker (19/21): shaders left to compile 22
+[2025.01.16-01.27.16:073][586]LogShaderCompilers: Display: Worker (20/21): shaders left to compile 21
+[2025.01.16-01.27.16:073][586]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2025.01.16-01.27.16:077][586]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2025.01.16-01.27.16:080][586]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2025.01.16-01.27.16:083][586]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2025.01.16-01.27.16:090][586]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2025.01.16-01.27.16:098][586]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2025.01.16-01.27.16:104][586]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2025.01.16-01.27.16:125][586]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2025.01.16-01.27.16:574][586]LogShaderCompilers: Display: Worker (4/21): shaders left to compile 36
+[2025.01.16-01.27.16:574][586]LogShaderCompilers: Display: Worker (12/21): shaders left to compile 35
+[2025.01.16-01.27.16:574][586]LogShaderCompilers: Display: Worker (2/21): shaders left to compile 34
+[2025.01.16-01.27.16:574][586]LogShaderCompilers: Display: Worker (6/21): shaders left to compile 33
+[2025.01.16-01.27.16:574][586]LogShaderCompilers: Display: Worker (10/21): shaders left to compile 32
+[2025.01.16-01.27.16:574][586]LogShaderCompilers: Display: Worker (16/21): shaders left to compile 31
+[2025.01.16-01.27.16:574][586]LogShaderCompilers: Display: Worker (3/21): shaders left to compile 30
+[2025.01.16-01.27.16:574][586]LogShaderCompilers: Display: Worker (8/21): shaders left to compile 29
+[2025.01.16-01.27.16:574][586]LogShaderCompilers: Display: Worker (5/21): shaders left to compile 28
+[2025.01.16-01.27.16:574][586]LogShaderCompilers: Display: Worker (14/21): shaders left to compile 27
+[2025.01.16-01.27.16:574][586]LogShaderCompilers: Display: Worker (1/21): shaders left to compile 26
+[2025.01.16-01.27.16:574][586]LogShaderCompilers: Display: Worker (7/21): shaders left to compile 25
+[2025.01.16-01.27.16:574][586]LogShaderCompilers: Display: Worker (9/21): shaders left to compile 24
+[2025.01.16-01.27.16:574][586]LogShaderCompilers: Display: Worker (11/21): shaders left to compile 23
+[2025.01.16-01.27.16:574][586]LogShaderCompilers: Display: Worker (19/21): shaders left to compile 22
+[2025.01.16-01.27.16:574][586]LogShaderCompilers: Display: Worker (13/21): shaders left to compile 21
+[2025.01.16-01.27.16:574][586]LogShaderCompilers: Display: Worker (15/21): shaders left to compile 20
+[2025.01.16-01.27.16:574][586]LogShaderCompilers: Display: Worker (17/21): shaders left to compile 19
+[2025.01.16-01.27.16:574][586]LogShaderCompilers: Display: Worker (18/21): shaders left to compile 18
+[2025.01.16-01.27.16:574][586]LogShaderCompilers: Display: Worker (20/21): shaders left to compile 17
+[2025.01.16-01.27.16:574][586]LogShaderCompilers: Display: Worker (12/21): shaders left to compile 16
+[2025.01.16-01.27.16:574][586]LogShaderCompilers: Display: Worker (16/21): shaders left to compile 15
+[2025.01.16-01.27.16:574][586]LogShaderCompilers: Display: Worker (4/21): shaders left to compile 14
+[2025.01.16-01.27.16:574][586]LogShaderCompilers: Display: Worker (6/21): shaders left to compile 13
+[2025.01.16-01.27.16:574][586]LogShaderCompilers: Display: Worker (8/21): shaders left to compile 12
+[2025.01.16-01.27.16:574][586]LogShaderCompilers: Display: Worker (14/21): shaders left to compile 11
+[2025.01.16-01.27.16:574][586]LogShaderCompilers: Display: Worker (7/21): shaders left to compile 10
+[2025.01.16-01.27.16:574][586]LogShaderCompilers: Display: Worker (2/21): shaders left to compile 9
+[2025.01.16-01.27.16:574][586]LogShaderCompilers: Display: Worker (10/21): shaders left to compile 8
+[2025.01.16-01.27.16:574][586]LogShaderCompilers: Display: Worker (3/21): shaders left to compile 7
+[2025.01.16-01.27.16:574][586]LogShaderCompilers: Display: Worker (5/21): shaders left to compile 6
+[2025.01.16-01.27.16:574][586]LogShaderCompilers: Display: Worker (13/21): shaders left to compile 5
+[2025.01.16-01.27.16:574][586]LogShaderCompilers: Display: Worker (11/21): shaders left to compile 4
+[2025.01.16-01.27.16:574][586]LogShaderCompilers: Display: Worker (20/21): shaders left to compile 3
+[2025.01.16-01.27.16:574][586]LogShaderCompilers: Display: Worker (9/21): shaders left to compile 2
+[2025.01.16-01.27.16:574][586]LogShaderCompilers: Display: Worker (1/21): shaders left to compile 1
+[2025.01.16-01.27.16:574][586]TextureStreamingBuild: Display: Compiling optional shaders took 0.522 seconds.
+[2025.01.16-01.27.16:649][586]LogLevel: Display: Export Material TexCoord Scales took 0.075 seconds.
+[2025.01.16-01.27.16:668][586]TextureStreamingBuild: Display: Build Texture Streaming took 0.019 seconds.
+[2025.01.16-01.27.16:704][586]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2025.01.16-01.27.16:704][586]LightingResults: New page: Lighting Build - Jan 15, 2025, 9:27:16 AM
+[2025.01.16-01.27.16:724][586]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2025.01.16-01.27.16:742][586]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2025.01.16-01.27.16:750][586]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2025.01.16-01.27.17:263][586]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2025.01.16-01.27.17:263][586]LogSwarmInterface: [TryOpenConnection] Local Process ID is 22932
+[2025.01.16-01.27.24:117][586]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2025.01.16-01.27.24:117][586]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2025.01.16-01.27.24:117][586]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2025.01.16-01.27.24:117][586]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2025.01.16-01.27.24:117][586]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2025.01.16-01.27.24:117][586]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2025.01.16-01.27.24:226][586]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2025.01.16-01.27.24:226][586]MapCheck: New page: Main - Jan 15, 2025, 9:27:24 AM
+[2025.01.16-01.27.24:226][586]MapCheck: Error: WorldSettings_1 Maps need lighting rebuilt 
+[2025.01.16-01.27.24:228][586]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 0.507ms to complete.
+[2025.01.16-01.27.24:229][586]LogEditorBuildUtils: Build time 0:08
+[2025.01.16-01.27.24:232][586]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2025.01.16-01.27.24:243][586]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer MaterialInstanceDynamic_0, compiling. 
+[2025.01.16-01.27.24:247][586]LogShaderCompilers: Display: Worker (1/21): shaders left to compile 2
+[2025.01.16-01.27.24:247][586]LogShaderCompilers: Display: Worker (2/21): shaders left to compile 1
+[2025.01.16-01.27.24:247][586]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer MaterialInstanceDynamic_0, compiling. 
+[2025.01.16-01.27.24:251][586]LogShaderCompilers: Display: Worker (3/21): shaders left to compile 2
+[2025.01.16-01.27.24:251][586]LogShaderCompilers: Display: Worker (4/21): shaders left to compile 1
+[2025.01.16-01.27.24:251][586]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer BasicShapeMaterialBlack, compiling. 
+[2025.01.16-01.27.24:255][586]LogShaderCompilers: Display: Worker (5/21): shaders left to compile 2
+[2025.01.16-01.27.24:255][586]LogShaderCompilers: Display: Worker (6/21): shaders left to compile 1
+[2025.01.16-01.27.24:255][586]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer BasicShapeMaterialBlack, compiling. 
+[2025.01.16-01.27.24:279][587]LogShaderCompilers: Display: Worker (7/21): shaders left to compile 2
+[2025.01.16-01.27.24:280][587]LogShaderCompilers: Display: Worker (8/21): shaders left to compile 1
+[2025.01.16-01.27.24:284][587]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Tech_Hex_Tile_Pulse, compiling. 
+[2025.01.16-01.27.24:289][587]LogShaderCompilers: Display: Worker (9/21): shaders left to compile 2
+[2025.01.16-01.27.24:289][587]LogShaderCompilers: Display: Worker (10/21): shaders left to compile 1
+[2025.01.16-01.27.24:289][587]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Tech_Hex_Tile_Pulse, compiling. 
+[2025.01.16-01.27.24:304][588]LogShaderCompilers: Display: Worker (11/21): shaders left to compile 2
+[2025.01.16-01.27.24:304][588]LogShaderCompilers: Display: Worker (12/21): shaders left to compile 1
+[2025.01.16-01.27.24:309][588]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Wood_Floor_Walnut_Worn, compiling. 
+[2025.01.16-01.27.24:315][588]LogShaderCompilers: Display: Worker (13/21): shaders left to compile 2
+[2025.01.16-01.27.24:315][588]LogShaderCompilers: Display: Worker (14/21): shaders left to compile 1
+[2025.01.16-01.27.24:315][588]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Wood_Floor_Walnut_Worn, compiling. 
+[2025.01.16-01.27.24:335][588]LogShaderCompilers: Display: Worker (15/21): shaders left to compile 2
+[2025.01.16-01.27.24:335][588]LogShaderCompilers: Display: Worker (16/21): shaders left to compile 1
+[2025.01.16-01.27.24:633][594]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2025.01.16-01.27.26:273][731]Job is a success!
+[2025.01.16-01.27.26:318][732]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.006s
+[2025.01.16-01.27.26:318][732]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2025.01.16-01.27.26:318][732]LogVolumetricLightmapImport:      BrickData 270x5x5 = 0.2Mb
+[2025.01.16-01.27.26:318][732]LogVolumetricLightmapImport:      Bricks at Level
+[2025.01.16-01.27.26:318][732]LogVolumetricLightmapImport:          0: 1.9% covering 100.0% of volume
+[2025.01.16-01.27.26:318][732]LogVolumetricLightmapImport:          1: 7.4% covering 6.3% of volume
+[2025.01.16-01.27.26:318][732]LogVolumetricLightmapImport:          2: 90.7% covering 1.2% of volume
+[2025.01.16-01.27.26:418][732]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2025.01.16-01.27.26:418][732]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2025.01.16-01.27.26:418][732]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 512X512)
+[2025.01.16-01.27.26:418][732]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 512X512)
+[2025.01.16-01.27.26:418][732]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 64X64)
+[2025.01.16-01.27.26:418][732]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 64X64)
+[2025.01.16-01.27.26:418][732]LogTexture: Display: Building textures: ShadowMapTexture2D_4 (G8, 32X32)
+[2025.01.16-01.27.26:418][732]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 512X64)
+[2025.01.16-01.27.26:418][732]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 512X512)
+[2025.01.16-01.27.26:437][732]LogStaticLightingSystem: Main_BuiltData storing lightmap data for 20 meshes in 4 LightmapResourceClusters (5.0 Meshes per cluster).
+[2025.01.16-01.27.26:474][732]Lightmass on LAILAISTOWER: 1.54 sec total, 72 ms importing, 4 ms setup, 419 ms photons, 1.00 sec processing, 0 ms extra exporting [124/124 mappings]. Threads: 23.1 sec total, 2.72 sec processing.
+[2025.01.16-01.27.26:475][732]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2025.01.16-01.27.26:483][732]LogStaticLightingSystem: Illumination: 9.76 sec (40 ms encoding lightmaps, 30 ms encoding shadowmaps)
+[2025.01.16-01.27.26:483][732]LogStaticLightingSystem: Lightmap texture memory:  2.5 MB (0.5 MB streaming, 2.0 MB non-streaming), 6 textures
+[2025.01.16-01.27.26:483][732]LogStaticLightingSystem: Shadowmap texture memory: 0.4 MB (0.0 MB streaming, 0.3 MB non-streaming), 3 textures
+[2025.01.16-01.27.27:130][732]DumpUnbuiltLightIteractions
+[2025.01.16-01.27.27:130][732]Lights with unbuilt interactions: 0
+[2025.01.16-01.27.27:130][732]
+[2025.01.16-01.27.27:130][732]Primitives with unbuilt interactions: 0
+[2025.01.16-01.27.27:133][732]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2025.01.16-01.27.27:173][733]Cmd: MAP CHECK NOTIFYRESULTS
+[2025.01.16-01.27.27:173][733]MapCheck: New page: Main - Jan 15, 2025, 9:27:27 AM
+[2025.01.16-01.27.27:173][733]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.35ms to complete.
+[2025.01.16-01.27.28:493][891]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2025.01.16-01.27.28:542][897]LogSlate: Window 'Message Log' being destroyed
+[2025.01.16-01.27.28:545][897]LogSlate: Window 'Message Log' being destroyed
+[2025.01.16-01.27.39:804][241]LogEditorViewport: Clicking on Actor (LMB): BP_Blind_C (BP_Blind5)
+[2025.01.16-01.27.43:888][726]Cmd: TRANSACTION UNDO
+[2025.01.16-01.27.43:888][726]LogEditorTransaction: Undo Move Actors
+[2025.01.16-01.27.59:994][657]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor)
+[2025.01.16-01.36.44:623][600]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2025.01.16-01.36.44:670][600]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2025.01.16-01.36.44:740][600]LogSavePackage: Moving '../../../../../../Users/LaiLaisGaming/Documents/Unreal Projects/WarehouseWreckage423/Saved/Main_Auto1AE3C08C54AEDA413FBD009B8F61346A7.tmp' to '../../../../../../Users/LaiLaisGaming/Documents/Unreal Projects/WarehouseWreckage423/Saved/Autosaves/Game/MyContent/Maps/Main_Auto1.umap'
+[2025.01.16-01.36.44:742][600]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MyContent/Maps/Main' took 0.109
+[2025.01.16-01.36.44:742][600]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.109
+[2025.01.16-01.46.44:584][577]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2025.01.16-01.46.44:625][577]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2025.01.16-01.46.44:625][577]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MyContent/Maps/Main' took 0.035
+[2025.01.16-01.56.44:460][554]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2025.01.16-01.56.44:502][554]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2025.01.16-01.56.44:503][554]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MyContent/Maps/Main' took 0.036
+[2025.01.16-02.06.44:341][531]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2025.01.16-02.06.44:382][531]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2025.01.16-02.06.44:382][531]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MyContent/Maps/Main' took 0.034
+[2025.01.16-02.11.17:441][292]LogAudio: Warning: Current Audio Device with ID {0.0.0.00000000}.{2748dd38-83a9-4528-8ce7-325313df9bbc} was removed. Shutting down audio device.
+[2025.01.16-02.11.17:441][292]LogInit: XAudio2 using '4 - SB230 (AMD High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2025.01.16-02.11.17:518][294]LogInit: XAudio2 using '4 - SB230 (AMD High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2025.01.16-02.16.44:219][496]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2025.01.16-02.16.44:259][496]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2025.01.16-02.16.44:260][496]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MyContent/Maps/Main' took 0.034
+[2025.01.16-02.25.43:413][188]LogInit: XAudio2 using '4 - SB230 (AMD High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2025.01.16-02.25.43:565][199]LogInit: XAudio2 using 'Headphones (2- WH2037A)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2025.01.16-02.25.43:640][200]LogInit: XAudio2 using 'Headphones (2- WH2037A)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2025.01.16-02.25.43:683][201]LogInit: XAudio2 using 'Headphones (2- WH2037A)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2025.01.16-02.26.44:100][450]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2025.01.16-02.26.44:143][450]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2025.01.16-02.26.44:143][450]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MyContent/Maps/Main' took 0.038
+[2025.01.16-02.26.46:821][767]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2025.01.16-02.26.46:826][767]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2025.01.16-02.26.46:870][767]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2025.01.16-02.26.46:940][767]LogSavePackage: Moving '../../../../../../Users/LaiLaisGaming/Documents/Unreal Projects/WarehouseWreckage423/Saved/MainC22E15894241B677DBF31BBF1B8AFB5A.tmp' to '../../../../../../Users/LaiLaisGaming/Documents/Unreal Projects/WarehouseWreckage423/Content/MyContent/Maps/Main.umap'
+[2025.01.16-02.26.46:951][767]LogFileHelpers: Saving map 'Main' took 0.120
+[2025.01.16-02.26.46:968][767]LogSavePackage: Moving '../../../../../../Users/LaiLaisGaming/Documents/Unreal Projects/WarehouseWreckage423/Saved/Main_BuiltData81B7FF054650BB1E0C1C2187F8792CDE.tmp' to '../../../../../../Users/LaiLaisGaming/Documents/Unreal Projects/WarehouseWreckage423/Content/MyContent/Maps/Main_BuiltData.uasset'
+[2025.01.16-02.26.48:973][  2]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
